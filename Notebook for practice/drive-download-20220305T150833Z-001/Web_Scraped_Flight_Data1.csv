@@ -1,0 +1,1675 @@
+,Unnamed: 0,Airline,Source,Destination,Dep_Time,Arrival_Time,Duration,Total_Stops,Price
+0,0,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,7229
+1,1,Multiple carriers,Delhi,Cochin,10:20,01:30 22 May,15h 10m,1 stop,7485
+2,2,IndiGo,Banglore,Delhi,18:55,21:50,2h 55m,non-stop,4823
+3,3,Air India,Delhi,Cochin,05:55,07:40 07 Mar,25h 45m,2 stops,14641
+4,4,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3841
+5,5,Jet Airways,Kolkata,Banglore,21:10,10:05 22 May,12h 55m,1 stop,8586
+6,6,Jet Airways,Kolkata,Banglore,09:35,18:00,8h 25m,1 stop,14151
+7,7,IndiGo,Mumbai,Hyderabad,19:05,20:30,1h 25m,non-stop,2754
+8,8,Vistara,Delhi,Cochin,06:00,09:10,3h 10m,non-stop,6216
+9,9,Jet Airways,Delhi,Cochin,23:05,04:25 20 May,29h 20m,2 stops,15129
+10,10,IndiGo,Kolkata,Banglore,21:25,00:05 22 Jun,2h 40m,non-stop,4804
+11,11,IndiGo,Kolkata,Banglore,22:10,00:55 16 Mar,2h 45m,non-stop,4148
+12,12,Jet Airways,Kolkata,Banglore,20:25,14:25 25 May,18h,1 stop,12121
+13,13,IndiGo,Banglore,New Delhi,07:10,10:05,2h 55m,non-stop,6144
+14,14,Jet Airways,Kolkata,Banglore,21:10,10:05 02 May,12h 55m,1 stop,10844
+15,15,Multiple carriers,Delhi,Cochin,08:00,19:15,11h 15m,1 stop,15058
+16,16,SpiceJet,Banglore,Delhi,21:10,00:05 07 Jun,2h 55m,non-stop,3257
+17,17,Jet Airways,Banglore,New Delhi,05:45,00:45 19 Mar,19h,1 stop,7832
+18,18,Air India,Delhi,Cochin,05:10,08:00,2h 50m,non-stop,6934
+19,19,IndiGo,Mumbai,Hyderabad,12:00,13:25,1h 25m,non-stop,3175
+20,20,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,9315
+21,21,Jet Airways,Delhi,Cochin,08:00,18:50,10h 50m,1 stop,6068
+22,22,Jet Airways,Kolkata,Banglore,06:30,22:35,16h 5m,1 stop,13339
+23,23,Jet Airways,Kolkata,Banglore,17:00,18:00 07 May,25h,1 stop,9314
+24,24,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,3943
+25,25,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,4812
+26,26,Multiple carriers,Delhi,Cochin,12:50,21:00,8h 10m,1 stop,7005
+27,27,Jet Airways,Delhi,Cochin,19:10,19:00 10 May,23h 50m,2 stops,15129
+28,28,Jet Airways,Kolkata,Banglore,05:45,18:15,12h 30m,1 stop,10844
+29,29,Jet Airways,Banglore,New Delhi,11:40,11:25 02 Mar,23h 45m,1 stop,25735
+30,30,Air Asia,Banglore,Delhi,11:10,13:55,2h 45m,non-stop,4483
+31,31,Air India,Kolkata,Banglore,09:10,11:05 25 May,25h 55m,2 stops,6117
+32,32,Jet Airways,Delhi,Cochin,06:20,19:45 28 Mar,37h 25m,2 stops,9296
+33,33,Multiple carriers,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,11446
+34,34,Multiple carriers,Delhi,Cochin,06:00,19:00,13h,1 stop,13259
+35,35,Jet Airways,Delhi,Cochin,19:45,12:35 22 May,16h 50m,1 stop,12898
+36,36,IndiGo,Delhi,Cochin,15:00,01:30 02 Jun,10h 30m,1 stop,6628
+37,37,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4145
+38,38,Jet Airways,Kolkata,Banglore,18:55,19:50 02 Apr,24h 55m,1 stop,12681
+39,39,Multiple carriers,Delhi,Cochin,13:00,01:30 19 May,12h 30m,1 stop,9385
+40,40,IndiGo,Delhi,Cochin,04:55,21:00,16h 5m,1 stop,6979
+41,41,Jet Airways,Delhi,Cochin,20:55,04:25 04 Jun,7h 30m,1 stop,14714
+42,42,IndiGo,Delhi,Cochin,05:05,16:10,11h 5m,1 stop,6818
+43,43,Air India,Delhi,Cochin,10:55,19:15,8h 20m,2 stops,11753
+44,44,Jet Airways,Kolkata,Banglore,09:35,22:05,12h 30m,1 stop,12692
+45,45,Multiple carriers,Delhi,Cochin,11:40,19:15,7h 35m,1 stop,6953
+46,46,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,15129
+47,47,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,3625
+48,48,Jet Airways,Delhi,Cochin,18:15,12:35 10 Jun,18h 20m,1 stop,10577
+49,49,Multiple carriers,Delhi,Cochin,07:05,19:15,12h 10m,1 stop,12927
+50,50,SpiceJet,Banglore,Delhi,05:55,08:35,2h 40m,non-stop,3971
+51,51,Air India,Delhi,Cochin,13:00,19:15,6h 15m,1 stop,8372
+52,52,IndiGo,Delhi,Cochin,07:35,12:10,4h 35m,1 stop,5054
+53,53,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,5678
+54,54,Jet Airways,Delhi,Cochin,13:55,18:50 22 Mar,28h 55m,2 stops,8728
+55,55,SpiceJet,Chennai,Kolkata,08:20,10:35,2h 15m,non-stop,3911
+56,56,Jet Airways,Delhi,Cochin,20:55,12:35 19 May,15h 40m,1 stop,12373
+57,57,Air India,Delhi,Cochin,16:40,19:15 04 Mar,26h 35m,2 stops,14011
+58,58,IndiGo,Chennai,Kolkata,19:35,21:55,2h 20m,non-stop,3597
+59,59,Jet Airways,Banglore,New Delhi,08:55,09:00 07 Mar,24h 5m,1 stop,15025
+60,60,GoAir,Delhi,Cochin,07:25,13:20,5h 55m,1 stop,4106
+61,61,SpiceJet,Kolkata,Banglore,11:15,18:30,7h 15m,1 stop,9946
+62,62,IndiGo,Delhi,Cochin,07:15,12:30,5h 15m,1 stop,5636
+63,63,Jet Airways,Kolkata,Banglore,20:00,08:15 10 May,12h 15m,1 stop,7757
+64,64,Jet Airways,Delhi,Cochin,11:40,19:00,7h 20m,2 stops,21219
+65,65,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,3573
+66,66,GoAir,Delhi,Cochin,10:25,19:20,8h 55m,1 stop,5281
+67,67,Jet Airways,Delhi,Cochin,21:50,04:25 07 Jun,6h 35m,1 stop,10262
+68,68,Multiple carriers,Delhi,Cochin,07:05,21:00,13h 55m,1 stop,13587
+69,69,Air India,Delhi,Cochin,13:20,07:40 19 May,18h 20m,2 stops,13801
+70,70,IndiGo,Kolkata,Banglore,20:20,22:55,2h 35m,non-stop,4804
+71,71,Air India,Delhi,Cochin,10:55,19:15,8h 20m,2 stops,11753
+72,72,Air India,Delhi,Cochin,05:15,06:50 25 Jun,25h 35m,1 stop,6587
+73,73,Multiple carriers,Delhi,Cochin,08:45,19:15,10h 30m,1 stop,8266
+74,74,IndiGo,Kolkata,Banglore,10:10,12:55,2h 45m,non-stop,4148
+75,75,Jet Airways,Kolkata,Banglore,16:30,04:40 07 Jun,12h 10m,1 stop,6812
+76,76,Air Asia,Kolkata,Banglore,07:35,23:30,15h 55m,1 stop,5192
+77,77,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,4995
+78,78,Air India,Kolkata,Banglore,16:45,16:15 13 May,23h 30m,2 stops,13437
+79,79,Multiple carriers,Delhi,Cochin,07:05,13:20,6h 15m,1 stop,12537
+80,80,IndiGo,Delhi,Cochin,02:00,07:45,5h 45m,1 stop,6386
+81,81,Jet Airways,Kolkata,Banglore,06:30,23:25,16h 55m,1 stop,8824
+82,82,SpiceJet,Delhi,Cochin,06:05,11:20,5h 15m,1 stop,6297
+83,83,Jet Airways,Kolkata,Banglore,08:25,20:45,12h 20m,1 stop,14571
+84,84,IndiGo,Banglore,New Delhi,23:30,02:20 10 Mar,2h 50m,non-stop,5694
+85,85,IndiGo,Banglore,Delhi,23:30,02:20 10 May,2h 50m,non-stop,3943
+86,86,Multiple carriers,Delhi,Cochin,07:10,22:30,15h 20m,1 stop,7038
+87,87,Jet Airways,Delhi,Cochin,06:45,12:35 28 Jun,29h 50m,2 stops,10919
+88,88,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,5048
+89,89,Air India,Kolkata,Banglore,08:20,23:15,14h 55m,2 stops,11432
+90,90,Jet Airways,Kolkata,Banglore,08:25,19:50,11h 25m,1 stop,9899
+91,91,Jet Airways,Delhi,Cochin,20:55,12:35 13 Jun,15h 40m,1 stop,10262
+92,92,Jet Airways,Delhi,Cochin,09:40,04:25 28 May,18h 45m,2 stops,13029
+93,93,IndiGo,Delhi,Cochin,15:00,01:35 04 Mar,10h 35m,1 stop,14871
+94,94,Jet Airways,Kolkata,Banglore,17:00,19:10 10 Jun,26h 10m,1 stop,12692
+95,95,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,15554
+96,96,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,9548
+97,97,Jet Airways,Delhi,Cochin,02:15,19:45,17h 30m,1 stop,13843
+98,98,Jet Airways,Delhi,Cochin,23:05,04:25 11 May,29h 20m,2 stops,16704
+99,99,Jet Airways,Delhi,Cochin,23:05,04:25 29 Jun,29h 20m,2 stops,11150
+100,100,Jet Airways,Kolkata,Banglore,08:25,16:20,7h 55m,1 stop,10844
+101,101,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,7229
+102,102,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3841
+103,103,Vistara,Mumbai,Hyderabad,07:30,19:55,12h 25m,1 stop,12395
+104,104,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,4423
+105,105,Jet Airways,Delhi,Cochin,19:10,04:25 23 Mar,33h 15m,2 stops,8834
+106,106,Jet Airways,Kolkata,Banglore,08:25,19:50,11h 25m,1 stop,13626
+107,107,Jet Airways,Delhi,Cochin,11:00,14:15,3h 15m,non-stop,9564
+108,108,Air Asia,Banglore,Delhi,23:55,02:45 19 Apr,2h 50m,non-stop,4483
+109,109,Air India,Delhi,Cochin,06:05,09:25 16 Jun,27h 20m,1 stop,7480
+110,110,Air India,Banglore,New Delhi,06:45,12:15,5h 30m,1 stop,8714
+111,111,Jet Airways,Kolkata,Banglore,09:35,21:05,11h 30m,1 stop,13469
+112,112,Air India,Banglore,New Delhi,00:30,08:45,8h 15m,1 stop,11392
+113,113,Vistara,Chennai,Kolkata,07:05,09:20,2h 15m,non-stop,3687
+114,114,IndiGo,Delhi,Cochin,05:05,10:05,5h,1 stop,8147
+115,115,Jet Airways,Banglore,New Delhi,07:00,13:15,6h 15m,1 stop,12284
+116,116,Jet Airways,Kolkata,Banglore,20:00,04:40 10 May,8h 40m,1 stop,13941
+117,117,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3597
+118,118,Multiple carriers,Delhi,Cochin,06:00,19:15,13h 15m,1 stop,8476
+119,119,Air India,Kolkata,Banglore,09:10,13:15,4h 5m,1 stop,8996
+120,120,Multiple carriers,Delhi,Cochin,13:00,19:15,6h 15m,1 stop,14533
+121,121,IndiGo,Banglore,New Delhi,05:25,10:10,4h 45m,1 stop,8021
+122,122,IndiGo,Delhi,Cochin,06:40,12:00,5h 20m,1 stop,5647
+123,123,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,4174
+124,124,Air India,Delhi,Cochin,12:00,07:40 07 Jun,19h 40m,2 stops,8603
+125,125,Air India,Banglore,New Delhi,10:30,22:55,12h 25m,1 stop,11003
+126,126,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,7229
+127,127,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,10262
+128,128,Jet Airways,Delhi,Cochin,05:30,04:25 10 Jun,22h 55m,2 stops,13014
+129,129,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,8918
+130,130,IndiGo,Delhi,Cochin,07:35,22:30,14h 55m,1 stop,6442
+131,131,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,14277
+132,132,Air India,Delhi,Cochin,17:15,19:15 07 Jun,26h,2 stops,12777
+133,133,Air India,Kolkata,Banglore,09:25,07:55 02 May,22h 30m,1 stop,8366
+134,134,Air India,Delhi,Cochin,19:00,07:40 04 Jun,12h 40m,1 stop,8372
+135,135,Air India,Delhi,Cochin,05:10,08:00,2h 50m,non-stop,6094
+136,136,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3873
+137,137,Jet Airways,Banglore,New Delhi,09:45,14:25,4h 40m,1 stop,8578
+138,138,Air India,Kolkata,Banglore,16:50,05:35 07 Jun,12h 45m,2 stops,11432
+139,139,Jet Airways,Delhi,Cochin,09:25,04:25 25 Jun,19h,2 stops,13882
+140,140,Multiple carriers,Delhi,Cochin,17:30,01:30 10 Apr,8h,1 stop,13017
+141,141,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,13797
+142,142,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,4804
+143,143,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,10877
+144,144,IndiGo,Chennai,Kolkata,19:35,21:55,2h 20m,non-stop,3597
+145,145,Multiple carriers,Delhi,Cochin,08:45,21:00,12h 15m,1 stop,7670
+146,146,Multiple carriers,Delhi,Cochin,13:00,01:30 25 Jun,12h 30m,1 stop,7198
+147,147,IndiGo,Delhi,Cochin,08:30,21:00,12h 30m,1 stop,6416
+148,148,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,4030
+149,149,Jet Airways,Delhi,Cochin,12:15,12:35 13 Jun,24h 20m,2 stops,14300
+150,150,Vistara,Delhi,Cochin,06:00,09:10,3h 10m,non-stop,6216
+151,151,Jet Airways,Kolkata,Banglore,18:55,09:20 25 May,14h 25m,1 stop,10844
+152,152,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,6356
+153,153,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,7618
+154,154,Jet Airways,Delhi,Cochin,20:55,19:00 04 Jun,22h 5m,1 stop,10262
+155,155,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3543
+156,156,Vistara,Kolkata,Banglore,20:20,10:45 25 May,14h 25m,1 stop,9187
+157,157,Jet Airways,Delhi,Cochin,09:00,04:25 07 Mar,19h 25m,1 stop,13843
+158,158,Jet Airways,Delhi,Cochin,19:10,19:00 10 May,23h 50m,2 stops,15129
+159,159,SpiceJet,Kolkata,Banglore,15:55,21:25,5h 30m,1 stop,8224
+160,160,IndiGo,Chennai,Kolkata,22:05,00:25 16 May,2h 20m,non-stop,5277
+161,161,SpiceJet,Kolkata,Banglore,11:15,18:30,7h 15m,1 stop,9630
+162,162,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,10262
+163,163,Jet Airways,Kolkata,Banglore,08:25,04:40 13 Jun,20h 15m,1 stop,6224
+164,164,IndiGo,Kolkata,Banglore,11:30,14:05,2h 35m,non-stop,4804
+165,165,Jet Airways,Banglore,New Delhi,05:45,10:45,5h,1 stop,9134
+166,166,Jet Airways,Delhi,Cochin,05:30,12:35,7h 5m,2 stops,15544
+167,167,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,8016
+168,168,Jet Airways,Delhi,Cochin,13:00,04:25 07 Jun,15h 25m,1 stop,14714
+169,169,IndiGo,Delhi,Cochin,04:45,21:00,16h 15m,1 stop,6314
+170,170,IndiGo,Delhi,Cochin,14:20,17:35,3h 15m,non-stop,5601
+171,171,Jet Airways,Delhi,Cochin,11:40,19:00,7h 20m,2 stops,18804
+172,172,Air India,Kolkata,Banglore,09:10,11:10 25 Mar,26h,2 stops,15187
+173,173,Air India,Mumbai,Hyderabad,19:30,20:45,1h 15m,non-stop,3100
+174,174,Multiple carriers,Delhi,Cochin,12:50,21:00,8h 10m,1 stop,7670
+175,175,Air India,Mumbai,Hyderabad,13:55,15:25,1h 30m,non-stop,3625
+176,176,Air India,Delhi,Cochin,18:05,21:10,3h 5m,non-stop,5674
+177,177,IndiGo,Delhi,Cochin,16:00,21:00,5h,1 stop,6069
+178,178,Air India,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,9194
+179,179,IndiGo,Delhi,Cochin,06:40,15:30,8h 50m,1 stop,8574
+180,180,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,7408
+181,181,IndiGo,Mumbai,Hyderabad,09:15,10:45,1h 30m,non-stop,4049
+182,182,SpiceJet,Kolkata,Banglore,22:20,00:40 28 Apr,2h 20m,non-stop,3873
+183,183,Multiple carriers,Delhi,Cochin,09:15,19:15,10h,1 stop,9779
+184,184,Air India,Kolkata,Banglore,09:50,23:15 25 Mar,37h 25m,2 stops,14410
+185,185,Jet Airways,Kolkata,Banglore,19:45,20:40 25 Mar,24h 55m,1 stop,13759
+186,186,Multiple carriers,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,16108
+187,187,Jet Airways,Delhi,Cochin,08:00,04:25 07 Mar,20h 25m,1 stop,15974
+188,188,IndiGo,Banglore,Delhi,07:10,10:05,2h 55m,non-stop,4823
+189,189,Air Asia,Banglore,Delhi,23:55,02:45 19 May,2h 50m,non-stop,4483
+190,190,Jet Airways,Delhi,Cochin,17:30,04:25 04 Jun,10h 55m,1 stop,10262
+191,191,GoAir,Delhi,Cochin,10:35,19:35,9h,1 stop,7378
+192,192,Air India,Delhi,Cochin,17:20,09:25 19 May,16h 5m,1 stop,7690
+193,193,Jet Airways,Delhi,Cochin,20:55,04:25 07 Jun,7h 30m,1 stop,14714
+194,194,Air Asia,Banglore,Delhi,23:55,02:45 16 May,2h 50m,non-stop,3383
+195,195,Jet Airways,Kolkata,Banglore,08:25,20:40,12h 15m,1 stop,11134
+196,196,IndiGo,Kolkata,Banglore,22:15,00:50 13 Apr,2h 35m,non-stop,4174
+197,197,SpiceJet,Kolkata,Banglore,11:15,18:30,7h 15m,1 stop,9736
+198,198,Jet Airways,Kolkata,Banglore,05:45,18:15,12h 30m,1 stop,14781
+199,199,Vistara,Kolkata,Banglore,20:20,20:20 25 May,24h,1 stop,9345
+200,200,Vistara,Kolkata,Banglore,09:55,20:25,10h 30m,1 stop,12312
+201,201,IndiGo,Chennai,Kolkata,15:40,18:25,2h 45m,non-stop,3540
+202,202,Jet Airways,Delhi,Cochin,11:00,14:15,3h 15m,non-stop,9564
+203,203,IndiGo,Banglore,Delhi,07:10,10:05,2h 55m,non-stop,4823
+204,204,IndiGo,Chennai,Kolkata,11:35,14:00,2h 25m,non-stop,3858
+205,205,Jet Airways,Banglore,New Delhi,08:55,15:15,6h 20m,1 stop,7832
+206,206,IndiGo,Delhi,Cochin,06:50,22:30,15h 40m,1 stop,6442
+207,207,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,13587
+208,208,SpiceJet,Delhi,Cochin,06:05,11:20,5h 15m,1 stop,5583
+209,209,SpiceJet,Kolkata,Banglore,22:20,00:40 25 Mar,2h 20m,non-stop,5725
+210,210,Jet Airways,Mumbai,Hyderabad,02:55,04:20,1h 25m,non-stop,4050
+211,211,Jet Airways,Kolkata,Banglore,16:30,08:15 02 Apr,15h 45m,1 stop,7064
+212,212,Multiple carriers,Delhi,Cochin,19:00,01:30 25 Jun,6h 30m,1 stop,7198
+213,213,Jet Airways,Banglore,New Delhi,11:40,21:20,9h 40m,1 stop,7832
+214,214,Jet Airways,Kolkata,Banglore,06:30,04:40 10 Jun,22h 10m,1 stop,9663
+215,215,SpiceJet,Mumbai,Hyderabad,05:45,07:15,1h 30m,non-stop,2017
+216,216,Air India,Banglore,New Delhi,10:00,12:45,2h 45m,non-stop,4441
+217,217,Jet Airways,Delhi,Cochin,02:15,04:25 22 Mar,26h 10m,1 stop,7438
+218,218,IndiGo,Delhi,Cochin,07:35,16:10,8h 35m,1 stop,6442
+219,219,IndiGo,Mumbai,Hyderabad,02:35,04:05,1h 30m,non-stop,2754
+220,220,IndiGo,Delhi,Cochin,06:50,16:10,9h 20m,1 stop,6442
+221,221,Multiple carriers,Delhi,Cochin,14:55,22:30,7h 35m,1 stop,7038
+222,222,IndiGo,Banglore,New Delhi,01:30,04:15,2h 45m,non-stop,4238
+223,223,IndiGo,Delhi,Cochin,07:45,13:40,5h 55m,1 stop,4832
+224,224,IndiGo,Chennai,Kolkata,11:35,14:00,2h 25m,non-stop,6297
+225,225,Multiple carriers,Delhi,Cochin,04:55,19:00,14h 5m,1 stop,11573
+226,226,IndiGo,Mumbai,Hyderabad,06:20,07:45,1h 25m,non-stop,4784
+227,227,Air India,Delhi,Cochin,06:10,08:15 07 Mar,26h 5m,1 stop,11038
+228,228,Jet Airways,Kolkata,Banglore,08:25,20:45,12h 20m,1 stop,10844
+229,229,Air India,Kolkata,Banglore,19:00,04:40 02 Apr,9h 40m,1 stop,4227
+230,230,IndiGo,Mumbai,Hyderabad,12:00,13:30,1h 30m,non-stop,2754
+231,231,Multiple carriers,Delhi,Cochin,15:00,01:30 04 Jun,10h 30m,1 stop,13377
+232,232,Air India,Kolkata,Banglore,20:30,20:25 25 Mar,23h 55m,1 stop,12173
+233,233,Jet Airways,Delhi,Cochin,02:15,19:00,16h 45m,1 stop,5177
+234,234,Air India,Banglore,New Delhi,11:50,23:55,12h 5m,1 stop,10972
+235,235,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,3971
+236,236,IndiGo,Mumbai,Hyderabad,06:25,07:55,1h 30m,non-stop,4049
+237,237,IndiGo,Delhi,Cochin,02:00,07:25,5h 25m,1 stop,7164
+238,238,Jet Airways,Delhi,Cochin,09:25,04:25 28 Jun,19h,2 stops,13882
+239,239,Vistara,Mumbai,Hyderabad,15:40,22:55,7h 15m,1 stop,12395
+240,240,Air India,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,6902
+241,241,Jet Airways,Kolkata,Banglore,16:30,12:00 25 May,19h 30m,1 stop,10844
+242,242,IndiGo,Banglore,New Delhi,00:40,03:25,2h 45m,non-stop,6144
+243,243,Air Asia,Kolkata,Banglore,10:20,12:55,2h 35m,non-stop,4409
+244,244,Vistara,Kolkata,Banglore,07:10,18:50,11h 40m,1 stop,9345
+245,245,Jet Airways,Kolkata,Banglore,20:25,09:45 13 Jun,13h 20m,1 stop,10539
+246,246,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,9315
+247,247,GoAir,Delhi,Cochin,07:25,13:35,6h 10m,1 stop,4201
+248,248,Jet Airways,Kolkata,Banglore,20:25,09:45 10 Jun,13h 20m,1 stop,13469
+249,249,Multiple carriers,Delhi,Cochin,10:00,01:30 22 May,15h 30m,1 stop,14067
+250,250,SpiceJet,Kolkata,Banglore,22:20,00:40 19 Apr,2h 20m,non-stop,4174
+251,251,SpiceJet,Mumbai,Hyderabad,08:50,10:15,1h 25m,non-stop,5755
+252,252,Multiple carriers,Delhi,Cochin,06:00,12:35,6h 35m,1 stop,11789
+253,253,Jet Airways,Delhi,Cochin,09:00,19:00,10h,1 stop,10262
+254,254,IndiGo,Banglore,Delhi,16:55,19:55,3h,non-stop,4823
+255,255,Jet Airways,Kolkata,Banglore,14:05,20:45,6h 40m,1 stop,10844
+256,256,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3873
+257,257,Air India,Kolkata,Banglore,05:50,23:15,17h 25m,2 stops,10991
+258,258,Air Asia,Kolkata,Banglore,22:50,01:20 22 May,2h 30m,non-stop,4107
+259,259,Air India,Kolkata,Banglore,05:50,13:15,7h 25m,2 stops,7662
+260,260,Air India,Mumbai,Hyderabad,19:30,20:45,1h 15m,non-stop,2050
+261,261,SpiceJet,Kolkata,Banglore,22:20,00:40 25 Apr,2h 20m,non-stop,3841
+262,262,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,3419
+263,263,Jet Airways,Kolkata,Banglore,17:00,09:45 02 May,16h 45m,1 stop,9314
+264,264,Vistara,Kolkata,Banglore,20:20,23:25 13 May,27h 5m,1 stop,8085
+265,265,Multiple carriers,Delhi,Cochin,14:55,22:30,7h 35m,1 stop,6093
+266,266,Air India,Chennai,Kolkata,11:40,13:55,2h 15m,non-stop,4667
+267,267,Jet Airways,Delhi,Cochin,18:15,18:50 10 Mar,24h 35m,1 stop,14053
+268,268,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,9794
+269,269,IndiGo,Delhi,Cochin,05:05,12:10,7h 5m,1 stop,7160
+270,270,Multiple carriers,Delhi,Cochin,08:30,19:00,10h 30m,1 stop,11200
+271,271,Air India,Banglore,New Delhi,05:50,22:45,16h 55m,1 stop,14069
+272,272,Multiple carriers,Delhi,Cochin,17:45,01:30 10 Apr,7h 45m,1 stop,8535
+273,273,IndiGo,Banglore,Delhi,08:30,11:20,2h 50m,non-stop,4823
+274,274,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,7229
+275,275,Air India,Delhi,Cochin,14:10,17:10,3h,non-stop,6934
+276,276,IndiGo,Mumbai,Hyderabad,02:30,04:00,1h 30m,non-stop,4784
+277,277,Multiple carriers,Delhi,Cochin,17:30,01:30 25 Jun,8h,1 stop,13377
+278,278,Multiple carriers,Delhi,Cochin,08:45,19:00,10h 15m,1 stop,11789
+279,279,SpiceJet,Chennai,Kolkata,09:30,12:05,2h 35m,non-stop,3332
+280,280,Jet Airways,Mumbai,Hyderabad,19:35,21:05,1h 30m,non-stop,3210
+281,281,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,4030
+282,282,IndiGo,Delhi,Cochin,05:05,16:10,11h 5m,1 stop,6442
+283,283,Jet Airways,Delhi,Cochin,10:00,12:35 04 Jun,26h 35m,1 stop,10262
+284,284,IndiGo,Banglore,Delhi,18:55,21:50,2h 55m,non-stop,4823
+285,285,Air India,Kolkata,Banglore,14:30,12:30 10 May,22h,2 stops,15107
+286,286,Multiple carriers,Delhi,Cochin,07:05,16:10,9h 5m,1 stop,9646
+287,287,IndiGo,Delhi,Cochin,08:35,22:30,13h 55m,1 stop,6442
+288,288,IndiGo,Banglore,Delhi,20:00,22:50,2h 50m,non-stop,4823
+289,289,Jet Airways,Kolkata,Banglore,08:25,18:15,9h 50m,1 stop,14781
+290,290,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,4030
+291,291,IndiGo,Delhi,Cochin,11:30,21:00,9h 30m,1 stop,6838
+292,292,GoAir,Banglore,Delhi,11:40,14:30,2h 50m,non-stop,3398
+293,293,Jet Airways,Banglore,New Delhi,08:55,21:20,12h 25m,1 stop,13817
+294,294,Jet Airways,Mumbai,Hyderabad,19:35,21:05,1h 30m,non-stop,5678
+295,295,IndiGo,Kolkata,Banglore,15:20,17:55,2h 35m,non-stop,4148
+296,296,IndiGo,Chennai,Kolkata,19:35,21:55,2h 20m,non-stop,3597
+297,297,Jet Airways,Banglore,New Delhi,16:55,10:45 13 Mar,17h 50m,1 stop,13817
+298,298,SpiceJet,Kolkata,Banglore,22:20,00:40 16 Mar,2h 20m,non-stop,3847
+299,299,IndiGo,Banglore,Delhi,18:55,21:50,2h 55m,non-stop,4823
+300,300,IndiGo,Delhi,Cochin,20:25,01:30 25 Apr,5h 5m,1 stop,5065
+301,301,IndiGo,Delhi,Cochin,21:05,00:20 04 Apr,3h 15m,non-stop,5021
+302,302,Jet Airways,Delhi,Cochin,02:15,12:35,10h 20m,1 stop,15851
+303,303,IndiGo,Kolkata,Banglore,20:25,23:10,2h 45m,non-stop,4804
+304,304,Air India,Delhi,Cochin,19:45,19:15 07 Mar,23h 30m,2 stops,12646
+305,305,Jet Airways,Delhi,Cochin,05:30,18:50 22 Mar,37h 20m,2 stops,9328
+306,306,Jet Airways,Delhi,Cochin,14:00,04:25 02 Jun,14h 25m,1 stop,10262
+307,307,IndiGo,Mumbai,Hyderabad,19:05,20:30,1h 25m,non-stop,2754
+308,308,Air India,Banglore,New Delhi,17:00,12:15 02 Mar,19h 15m,1 stop,10246
+309,309,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4145
+310,310,Jet Airways,Banglore,New Delhi,18:40,00:45 07 Mar,6h 5m,1 stop,22270
+311,311,Jet Airways,Kolkata,Banglore,16:30,18:15 25 May,25h 45m,1 stop,10844
+312,312,IndiGo,Mumbai,Hyderabad,01:40,03:10,1h 30m,non-stop,2754
+313,313,IndiGo,Chennai,Kolkata,22:05,00:25 28 Jun,2h 20m,non-stop,5277
+314,314,Multiple carriers,Delhi,Cochin,13:00,01:30 10 Jun,12h 30m,1 stop,7198
+315,315,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,14714
+316,316,Air India,Kolkata,Banglore,16:45,12:30 19 May,19h 45m,2 stops,15170
+317,317,Jet Airways,Delhi,Cochin,21:25,12:35 10 Jun,15h 10m,2 stops,13292
+318,318,Multiple carriers,Delhi,Cochin,07:00,13:20,6h 20m,1 stop,9042
+319,319,Jet Airways,Kolkata,Banglore,13:55,19:40,5h 45m,1 stop,14231
+320,320,Air India,Delhi,Cochin,13:15,09:25 16 Jun,20h 10m,2 stops,8839
+321,321,IndiGo,Delhi,Cochin,04:45,13:20,8h 35m,1 stop,14871
+322,322,SpiceJet,Mumbai,Hyderabad,22:45,00:15 28 May,1h 30m,non-stop,2017
+323,323,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,15129
+324,324,Jet Airways,Kolkata,Banglore,18:55,22:35 25 May,27h 40m,1 stop,10844
+325,325,Jet Airways,Delhi,Cochin,09:40,04:25 22 May,18h 45m,2 stops,13029
+326,326,Multiple carriers,Delhi,Cochin,08:30,19:00,10h 30m,1 stop,9627
+327,327,Multiple carriers,Delhi,Cochin,07:05,21:00,13h 55m,1 stop,13587
+328,328,Multiple carriers,Delhi,Cochin,02:15,13:20,11h 5m,1 stop,17057
+329,329,Multiple carriers,Delhi,Cochin,11:30,21:00,9h 30m,1 stop,6943
+330,330,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,7229
+331,331,Jet Airways,Kolkata,Banglore,08:25,20:45,12h 20m,1 stop,14781
+332,332,Multiple carriers,Delhi,Cochin,08:30,19:15,10h 45m,1 stop,7354
+333,333,Jet Airways,Kolkata,Banglore,20:25,10:55 13 Jun,14h 30m,1 stop,12692
+334,334,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,5769
+335,335,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,13014
+336,336,Jet Airways,Delhi,Cochin,11:30,19:00,7h 30m,1 stop,16079
+337,337,IndiGo,Kolkata,Banglore,15:15,20:05,4h 50m,1 stop,4565
+338,338,Jet Airways,Banglore,New Delhi,11:40,07:40 02 Mar,20h,1 stop,22270
+339,339,Jet Airways,Kolkata,Banglore,16:30,16:20 02 Apr,23h 50m,1 stop,7064
+340,340,Jet Airways,Delhi,Cochin,22:50,04:25 28 Jun,5h 35m,1 stop,12898
+341,341,IndiGo,Delhi,Cochin,14:30,17:35,3h 5m,non-stop,7673
+342,342,SpiceJet,Mumbai,Hyderabad,05:45,07:15,1h 30m,non-stop,2647
+343,343,Jet Airways,Kolkata,Banglore,18:55,19:50 22 May,24h 55m,1 stop,10844
+344,344,Multiple carriers,Delhi,Cochin,13:00,01:35 22 Mar,12h 35m,1 stop,13542
+345,345,Air India,Kolkata,Banglore,08:20,20:25,12h 5m,2 stops,12534
+346,346,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3841
+347,347,Multiple carriers,Delhi,Cochin,11:25,19:00,7h 35m,1 stop,10877
+348,348,Jet Airways,Kolkata,Banglore,20:00,08:15 25 May,12h 15m,1 stop,8586
+349,349,Air India,Delhi,Cochin,07:00,19:15,12h 15m,1 stop,15704
+350,350,Vistara,Mumbai,Hyderabad,14:40,09:25 07 Mar,18h 45m,1 stop,12395
+351,351,IndiGo,Chennai,Kolkata,05:15,07:40,2h 25m,non-stop,3850
+352,352,IndiGo,Kolkata,Banglore,17:35,22:15,4h 40m,1 stop,5386
+353,353,IndiGo,Delhi,Cochin,08:30,21:00,12h 30m,1 stop,7081
+354,354,Air India,Chennai,Kolkata,11:40,13:55,2h 15m,non-stop,19630
+355,355,Jet Airways,Banglore,New Delhi,11:40,05:05 02 Mar,17h 25m,1 stop,22270
+356,356,Jet Airways,Kolkata,Banglore,20:25,23:35 10 Jun,27h 10m,1 stop,12692
+357,357,IndiGo,Kolkata,Banglore,20:20,22:55,2h 35m,non-stop,4804
+358,358,IndiGo,Kolkata,Banglore,20:25,23:05,2h 40m,non-stop,4778
+359,359,IndiGo,Kolkata,Banglore,15:15,17:45,2h 30m,non-stop,4804
+360,360,Air India,Kolkata,Banglore,09:25,07:55 25 May,22h 30m,1 stop,8366
+361,361,Jet Airways,Kolkata,Banglore,20:00,19:50 19 May,23h 50m,1 stop,10844
+362,362,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,4030
+363,363,SpiceJet,Delhi,Cochin,17:55,22:50,4h 55m,1 stop,5975
+364,364,Multiple carriers,Delhi,Cochin,04:55,12:35,7h 40m,1 stop,8882
+365,365,Air India,Mumbai,Hyderabad,05:30,14:50,9h 20m,2 stops,13757
+366,366,IndiGo,Delhi,Cochin,11:30,01:35 22 Mar,14h 5m,1 stop,7318
+367,367,Jet Airways,Delhi,Cochin,13:00,19:00,6h,1 stop,14714
+368,368,Jet Airways,Delhi,Cochin,07:05,12:35,5h 30m,1 stop,12898
+369,369,Vistara,Banglore,Delhi,11:30,14:20,2h 50m,non-stop,4668
+370,370,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,3419
+371,371,Air India,Kolkata,Banglore,08:20,23:15,14h 55m,2 stops,13164
+372,372,Air India,Delhi,Cochin,22:00,19:15 04 Jun,21h 15m,2 stops,10231
+373,373,Jet Airways,Delhi,Cochin,19:45,12:35 02 Jun,16h 50m,1 stop,10262
+374,374,Air India,Kolkata,Banglore,14:35,15:20 07 May,24h 45m,1 stop,6528
+375,375,Jet Airways,Delhi,Cochin,20:00,04:25 10 May,8h 25m,2 stops,16263
+376,376,IndiGo,Delhi,Cochin,06:50,22:30,15h 40m,1 stop,6442
+377,377,Air India,Kolkata,Banglore,12:00,21:50,9h 50m,2 stops,9941
+378,378,Multiple carriers,Delhi,Cochin,07:30,19:15,11h 45m,1 stop,15077
+379,379,Vistara,Kolkata,Banglore,07:10,10:45 22 May,27h 35m,1 stop,9187
+380,380,Jet Airways,Delhi,Cochin,15:00,04:25 07 Jun,13h 25m,1 stop,10262
+381,381,IndiGo,Delhi,Cochin,11:25,01:30 16 Jun,14h 5m,1 stop,5883
+382,382,Multiple carriers,Delhi,Cochin,10:20,21:00,10h 40m,1 stop,6480
+383,383,Jet Airways,Delhi,Cochin,06:45,12:35 28 Jun,29h 50m,2 stops,13376
+384,384,IndiGo,Mumbai,Hyderabad,02:35,04:05,1h 30m,non-stop,2754
+385,385,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,3943
+386,386,IndiGo,Banglore,New Delhi,13:40,18:35,4h 55m,1 stop,8707
+387,387,Air India,Delhi,Cochin,05:10,08:00,2h 50m,non-stop,6881
+388,388,Vistara,Mumbai,Hyderabad,10:25,22:55,12h 30m,1 stop,12395
+389,389,Air India,Delhi,Cochin,17:40,08:15 19 May,14h 35m,1 stop,8361
+390,390,Jet Airways,Kolkata,Banglore,20:25,21:05 13 May,24h 40m,1 stop,12121
+391,391,Air India,Banglore,New Delhi,10:30,11:20 02 Mar,24h 50m,1 stop,11528
+392,392,IndiGo,Delhi,Cochin,16:00,21:00,5h,1 stop,5073
+393,393,Multiple carriers,Delhi,Cochin,06:00,21:00,15h,1 stop,7005
+394,394,IndiGo,Chennai,Kolkata,11:35,14:00,2h 25m,non-stop,7295
+395,395,Multiple carriers,Delhi,Cochin,13:00,21:00,8h,1 stop,7618
+396,396,Jet Airways,Delhi,Cochin,21:50,04:25 02 Jun,6h 35m,1 stop,14714
+397,397,Air India,Delhi,Cochin,17:20,09:25 04 Apr,16h 5m,1 stop,5117
+398,398,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4435
+399,399,IndiGo,Banglore,Delhi,22:10,01:00 22 May,2h 50m,non-stop,3625
+400,400,IndiGo,Kolkata,Banglore,09:35,12:20,2h 45m,non-stop,4804
+401,401,IndiGo,Kolkata,Banglore,20:25,23:05,2h 40m,non-stop,4462
+402,402,Jet Airways,Kolkata,Banglore,14:05,23:35,9h 30m,1 stop,10844
+403,403,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,15136
+404,404,Multiple carriers,Delhi,Cochin,07:05,22:30,15h 25m,1 stop,9646
+405,405,SpiceJet,Kolkata,Banglore,22:20,00:40 10 Mar,2h 20m,non-stop,4622
+406,406,Air India,Kolkata,Banglore,09:25,18:30,9h 5m,1 stop,8891
+407,407,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3543
+408,408,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,6121
+409,409,Multiple carriers,Delhi,Cochin,06:00,13:20,7h 20m,1 stop,7845
+410,410,Air Asia,Kolkata,Banglore,19:55,22:25,2h 30m,non-stop,3807
+411,411,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+412,412,Jet Airways,Kolkata,Banglore,19:45,08:10 25 Mar,12h 25m,1 stop,14231
+413,413,Multiple carriers,Delhi,Cochin,13:00,01:30 28 Jun,12h 30m,1 stop,13377
+414,414,SpiceJet,Kolkata,Banglore,15:05,20:20,5h 15m,1 stop,4649
+415,415,Multiple carriers,Delhi,Cochin,08:00,19:00,11h,1 stop,12192
+416,416,IndiGo,Mumbai,Hyderabad,12:00,13:30,1h 30m,non-stop,2754
+417,417,Multiple carriers,Delhi,Cochin,10:00,01:30 28 May,15h 30m,1 stop,9508
+418,418,Jet Airways,Delhi,Cochin,09:40,12:35 10 May,26h 55m,2 stops,13029
+419,419,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+420,420,GoAir,Kolkata,Banglore,16:40,00:15 19 May,7h 35m,1 stop,10586
+421,421,Air India,Kolkata,Banglore,16:50,11:10 13 Jun,18h 20m,1 stop,8366
+422,422,IndiGo,Mumbai,Hyderabad,19:05,20:35,1h 30m,non-stop,2754
+423,423,IndiGo,Banglore,New Delhi,19:35,00:35 02 Mar,5h,1 stop,22153
+424,424,Multiple carriers,Delhi,Cochin,18:00,01:30 07 Jun,7h 30m,1 stop,7198
+425,425,SpiceJet,Chennai,Kolkata,08:20,10:35,2h 15m,non-stop,3859
+426,426,Air Asia,Kolkata,Banglore,22:50,01:20 19 May,2h 30m,non-stop,4409
+427,427,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,4804
+428,428,Multiple carriers,Delhi,Cochin,06:40,19:15,12h 35m,1 stop,8937
+429,429,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+430,430,Jet Airways,Delhi,Cochin,09:40,12:35 13 Jun,26h 55m,2 stops,10368
+431,431,IndiGo,Banglore,Delhi,07:10,10:05,2h 55m,non-stop,4823
+432,432,Multiple carriers,Delhi,Cochin,13:00,01:30 16 Jun,12h 30m,1 stop,7198
+433,433,Multiple carriers,Delhi,Cochin,11:25,19:00,7h 35m,1 stop,10877
+434,434,Air India,Banglore,New Delhi,17:00,19:45,2h 45m,non-stop,10741
+435,435,Multiple carriers,Delhi,Cochin,10:00,01:35 04 Mar,15h 35m,1 stop,16863
+436,436,SpiceJet,Kolkata,Banglore,08:35,17:15,8h 40m,1 stop,7189
+437,437,Jet Airways,Kolkata,Banglore,08:25,16:20,7h 55m,1 stop,10844
+438,438,IndiGo,Kolkata,Banglore,14:25,16:55,2h 30m,non-stop,4804
+439,439,Air India,Delhi,Cochin,14:10,17:10,3h,non-stop,6094
+440,440,Multiple carriers,Delhi,Cochin,07:05,15:30,8h 25m,1 stop,17057
+441,441,Jet Airways,Delhi,Cochin,11:30,12:35 28 Jun,25h 5m,1 stop,10262
+442,442,Air India,Delhi,Cochin,21:30,19:15 07 Mar,21h 45m,2 stops,11552
+443,443,IndiGo,Mumbai,Hyderabad,09:10,10:40,1h 30m,non-stop,4049
+444,444,Jet Airways,Kolkata,Banglore,20:25,09:45 16 May,13h 20m,1 stop,12384
+445,445,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,4030
+446,446,Air India,Delhi,Cochin,16:55,19:15 10 Mar,26h 20m,2 stops,22096
+447,447,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,7229
+448,448,Multiple carriers,Delhi,Cochin,11:30,01:30 25 Jun,14h,1 stop,13377
+449,449,SpiceJet,Banglore,Delhi,05:55,08:35,2h 40m,non-stop,3625
+450,450,Multiple carriers,Delhi,Cochin,14:55,22:30,7h 35m,1 stop,7038
+451,451,Jet Airways,Kolkata,Banglore,17:00,10:55 07 May,17h 55m,1 stop,13067
+452,452,IndiGo,Delhi,Cochin,05:35,08:50,3h 15m,non-stop,5601
+453,453,IndiGo,Banglore,Delhi,00:25,03:15,2h 50m,non-stop,3943
+454,454,Multiple carriers,Delhi,Cochin,08:45,21:00,12h 15m,1 stop,7670
+455,455,Jet Airways,Delhi,Cochin,11:40,19:00,7h 20m,2 stops,18804
+456,456,Jet Airways,Kolkata,Banglore,06:30,18:15,11h 45m,1 stop,10844
+457,457,Jet Airways,Kolkata,Banglore,18:55,08:15 13 Jun,13h 20m,1 stop,13044
+458,458,IndiGo,Delhi,Cochin,08:35,22:20,13h 45m,1 stop,10236
+459,459,Air Asia,Kolkata,Banglore,10:20,12:55,2h 35m,non-stop,5645
+460,460,Jet Airways,Delhi,Cochin,09:00,12:35 16 Jun,27h 35m,1 stop,10262
+461,461,Air India,Banglore,Delhi,21:05,23:55,2h 50m,non-stop,6121
+462,462,Jet Airways,Kolkata,Banglore,08:25,04:40 02 May,20h 15m,1 stop,8586
+463,463,Jet Airways,Kolkata,Banglore,20:25,09:45 07 Jun,13h 20m,1 stop,10539
+464,464,Jet Airways,Delhi,Cochin,09:40,04:25 28 May,18h 45m,2 stops,13029
+465,465,Multiple carriers,Delhi,Cochin,04:55,19:00,14h 5m,1 stop,9103
+466,466,Jet Airways,Banglore,New Delhi,11:40,10:25 02 Mar,22h 45m,1 stop,25735
+467,467,IndiGo,Delhi,Cochin,06:40,21:00,14h 20m,1 stop,6758
+468,468,Jet Airways,Delhi,Cochin,05:30,12:35,7h 5m,2 stops,16274
+469,469,IndiGo,Delhi,Cochin,14:20,22:30,8h 10m,1 stop,6938
+470,470,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+471,471,Air Asia,Banglore,Delhi,23:55,02:45 10 Apr,2h 50m,non-stop,4483
+472,472,Jet Airways,Kolkata,Banglore,13:55,09:15 25 Mar,19h 20m,1 stop,11134
+473,473,Jet Airways,Delhi,Cochin,20:50,19:45 28 Mar,22h 55m,1 stop,12032
+474,474,Air India,Kolkata,Banglore,12:00,21:50,9h 50m,2 stops,10151
+475,475,SpiceJet,Mumbai,Hyderabad,13:10,14:30,1h 20m,non-stop,3173
+476,476,Jet Airways,Delhi,Cochin,06:20,18:50,12h 30m,2 stops,11538
+477,477,Multiple carriers,Delhi,Cochin,07:30,19:15,11h 45m,1 stop,9736
+478,478,Jet Airways,Kolkata,Banglore,21:10,10:05 07 May,12h 55m,1 stop,13584
+479,479,Jet Airways,Delhi,Cochin,10:00,12:35 19 May,26h 35m,1 stop,12373
+480,480,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,4804
+481,481,Multiple carriers,Delhi,Cochin,06:00,19:15,13h 15m,1 stop,9736
+482,482,Air India,Mumbai,Hyderabad,10:05,19:10,9h 5m,2 stops,9736
+483,483,IndiGo,Chennai,Kolkata,14:45,17:05,2h 20m,non-stop,3597
+484,484,Multiple carriers,Delhi,Cochin,10:20,19:15,8h 55m,1 stop,8476
+485,485,Air India,Kolkata,Banglore,14:15,16:45,2h 30m,non-stop,6245
+486,486,Air India,Delhi,Cochin,06:05,09:25 07 Jun,27h 20m,1 stop,7952
+487,487,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,4544
+488,488,Jet Airways,Kolkata,Banglore,10:20,17:35,7h 15m,1 stop,5608
+489,489,Air India,Delhi,Cochin,18:05,21:10,3h 5m,non-stop,4729
+490,490,Jet Airways,Kolkata,Banglore,21:10,20:40 25 Mar,23h 30m,1 stop,13759
+491,491,Jet Airways,Kolkata,Banglore,08:25,22:35,14h 10m,1 stop,10844
+492,492,IndiGo,Kolkata,Banglore,07:10,12:40,5h 30m,1 stop,4864
+493,493,Vistara,Delhi,Cochin,14:40,17:50,3h 10m,non-stop,6741
+494,494,Vistara,Kolkata,Banglore,07:10,09:05 13 May,25h 55m,1 stop,9397
+495,495,Vistara,Banglore,Delhi,11:30,14:20,2h 50m,non-stop,4668
+496,496,Air India,Kolkata,Banglore,07:00,20:25,13h 25m,1 stop,11096
+497,497,Multiple carriers,Delhi,Cochin,08:00,15:30,7h 30m,1 stop,8307
+498,498,IndiGo,Chennai,Kolkata,13:15,15:35,2h 20m,non-stop,3597
+499,499,Air India,Delhi,Cochin,21:00,19:15 10 Jun,22h 15m,1 stop,8372
+500,500,SpiceJet,Kolkata,Banglore,17:10,19:40,2h 30m,non-stop,3841
+501,501,Multiple carriers,Delhi,Cochin,07:30,19:15,11h 45m,1 stop,7354
+502,502,IndiGo,Delhi,Cochin,07:30,21:00,13h 30m,1 stop,6093
+503,503,Jet Airways,Kolkata,Banglore,17:00,14:25 16 May,21h 25m,1 stop,11467
+504,504,Jet Airways,Kolkata,Banglore,21:10,04:40 25 May,7h 30m,1 stop,9663
+505,505,Vistara,Kolkata,Banglore,07:10,18:50,11h 40m,1 stop,9345
+506,506,Jet Airways,Kolkata,Banglore,18:55,19:50 25 May,24h 55m,1 stop,10844
+507,507,Jet Airways,Kolkata,Banglore,20:25,18:00 19 May,21h 35m,1 stop,14151
+508,508,Air India,Kolkata,Banglore,09:25,07:55 10 Jun,22h 30m,1 stop,8366
+509,509,Vistara,Kolkata,Banglore,07:10,23:25,16h 15m,1 stop,9345
+510,510,Air India,Kolkata,Banglore,10:00,23:15,13h 15m,1 stop,10203
+511,511,Vistara,Mumbai,Hyderabad,08:45,22:55,14h 10m,1 stop,12080
+512,512,Air India,Kolkata,Banglore,09:25,10:30 25 May,25h 5m,2 stops,12797
+513,513,SpiceJet,Banglore,New Delhi,10:20,18:15,7h 55m,1 stop,10341
+514,514,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,9601
+515,515,Air Asia,Banglore,Delhi,04:55,07:45,2h 50m,non-stop,4282
+516,516,Multiple carriers,Delhi,Cochin,14:00,21:00,7h,1 stop,14067
+517,517,Air Asia,Kolkata,Banglore,22:50,01:20 22 Jun,2h 30m,non-stop,3807
+518,518,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4435
+519,519,Jet Airways,Kolkata,Banglore,17:00,21:05 22 May,28h 5m,1 stop,14151
+520,520,Jet Airways,Delhi,Cochin,13:55,18:50 22 Mar,28h 55m,2 stops,8728
+521,521,SpiceJet,Kolkata,Banglore,22:20,00:40 25 Apr,2h 20m,non-stop,3873
+522,522,Air India,Delhi,Cochin,05:00,19:15 04 Mar,38h 15m,2 stops,10283
+523,523,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,4423
+524,524,IndiGo,Delhi,Cochin,15:10,20:00,4h 50m,1 stop,6493
+525,525,Vistara,Kolkata,Banglore,07:10,23:25,16h 15m,1 stop,8085
+526,526,Air India,Delhi,Cochin,12:20,19:15 04 Jun,30h 55m,2 stops,12488
+527,527,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4991
+528,528,Jet Airways,Kolkata,Banglore,16:30,22:35,6h 5m,1 stop,14781
+529,529,Jet Airways,Kolkata,Banglore,08:25,04:40 07 Jun,20h 15m,1 stop,13731
+530,530,Air India,Delhi,Cochin,23:00,19:15 25 May,20h 15m,1 stop,8582
+531,531,IndiGo,Kolkata,Banglore,21:25,00:05 16 Apr,2h 40m,non-stop,4174
+532,532,Jet Airways,Delhi,Cochin,14:35,12:35 28 Jun,22h,2 stops,10919
+533,533,Jet Airways,Delhi,Cochin,17:30,04:25 22 Mar,10h 55m,1 stop,12557
+534,534,Jet Airways,Delhi,Cochin,19:45,12:35 28 Jun,16h 50m,1 stop,10262
+535,535,Vistara,Kolkata,Banglore,17:00,23:25,6h 25m,1 stop,8610
+536,536,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4319
+537,537,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,3898
+538,538,Jet Airways,Kolkata,Banglore,20:25,23:35 10 May,27h 10m,1 stop,13067
+539,539,Jet Airways,Kolkata,Banglore,10:20,17:35,7h 15m,1 stop,8355
+540,540,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,18581
+541,541,Jet Airways,Delhi,Cochin,09:00,19:00,10h,1 stop,16079
+542,542,Multiple carriers,Delhi,Cochin,11:40,21:00,9h 20m,1 stop,6007
+543,543,Vistara,Kolkata,Banglore,09:55,09:10 25 Mar,23h 15m,1 stop,10842
+544,544,Jet Airways,Delhi,Cochin,05:30,04:25 25 Jun,22h 55m,2 stops,13014
+545,545,Jet Airways,Delhi,Cochin,10:00,19:00,9h,1 stop,12373
+546,546,IndiGo,Banglore,Delhi,04:00,06:50,2h 50m,non-stop,3943
+547,547,Jet Airways,Delhi,Cochin,21:50,12:35 28 Jun,14h 45m,1 stop,10262
+548,548,SpiceJet,Mumbai,Hyderabad,22:45,00:10 25 Mar,1h 25m,non-stop,2227
+549,549,Vistara,Kolkata,Banglore,17:00,09:05 13 Jun,16h 5m,1 stop,7927
+550,550,Jet Airways,Kolkata,Banglore,08:25,04:40 02 May,20h 15m,1 stop,13941
+551,551,SpiceJet,Banglore,New Delhi,05:45,08:35,2h 50m,non-stop,3579
+552,552,IndiGo,Banglore,New Delhi,23:30,02:20 04 Mar,2h 50m,non-stop,6144
+553,553,IndiGo,Delhi,Cochin,02:00,07:25,5h 25m,1 stop,5636
+554,554,Air Asia,Banglore,Delhi,04:55,07:45,2h 50m,non-stop,4282
+555,555,Multiple carriers,Delhi,Cochin,11:30,19:15,7h 45m,1 stop,14323
+556,556,Air India,Kolkata,Banglore,10:00,10:30 02 Apr,24h 30m,3 stops,12954
+557,557,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,4812
+558,558,IndiGo,Banglore,Delhi,13:00,15:50,2h 50m,non-stop,3943
+559,559,Air Asia,Kolkata,Banglore,19:55,22:25,2h 30m,non-stop,3807
+560,560,IndiGo,Banglore,Delhi,18:55,21:50,2h 55m,non-stop,4823
+561,561,GoAir,Kolkata,Banglore,16:40,00:15 07 May,7h 35m,1 stop,7102
+562,562,Jet Airways,Kolkata,Banglore,09:35,14:25 10 Jun,28h 50m,1 stop,14151
+563,563,Jet Airways,Delhi,Cochin,13:00,12:35 28 Jun,23h 35m,1 stop,10262
+564,564,SpiceJet,Banglore,Delhi,05:55,08:35,2h 40m,non-stop,3573
+565,565,Multiple carriers,Delhi,Cochin,09:00,19:00,10h,1 stop,12927
+566,566,IndiGo,Delhi,Cochin,07:35,12:10,4h 35m,1 stop,5703
+567,567,Multiple carriers,Delhi,Cochin,19:00,01:35 04 Mar,6h 35m,1 stop,15288
+568,568,Jet Airways,Delhi,Cochin,09:40,19:00,9h 20m,2 stops,10368
+569,569,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+570,570,Jet Airways,Delhi,Cochin,13:45,18:50 10 Mar,29h 5m,2 stops,18752
+571,571,Air India,Kolkata,Banglore,12:00,23:15 13 May,35h 15m,3 stops,10991
+572,572,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4460
+573,573,Air India,Kolkata,Banglore,16:45,08:55 13 May,16h 10m,2 stops,13437
+574,574,Jet Airways,Delhi,Cochin,14:35,04:25 02 Jun,13h 50m,2 stops,13376
+575,575,Jet Airways,Kolkata,Banglore,21:10,10:05 07 Jun,12h 55m,1 stop,14571
+576,576,Multiple carriers,Delhi,Cochin,11:40,01:30 07 Jun,13h 50m,1 stop,6795
+577,577,Air India,Kolkata,Banglore,05:50,12:30 16 May,30h 40m,2 stops,12723
+578,578,SpiceJet,Kolkata,Banglore,17:15,19:45,2h 30m,non-stop,3815
+579,579,Air India,Banglore,Delhi,10:00,12:45,2h 45m,non-stop,6961
+580,580,IndiGo,Delhi,Cochin,05:05,16:10,11h 5m,1 stop,6818
+581,581,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,7229
+582,582,Jet Airways,Kolkata,Banglore,21:10,08:15 10 May,11h 5m,1 stop,9663
+583,583,Jet Airways,Kolkata,Banglore,16:30,23:35,7h 5m,1 stop,13941
+584,584,IndiGo,Delhi,Cochin,06:50,12:10,5h 20m,1 stop,5298
+585,585,Air India,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,8372
+586,586,Multiple carriers,Delhi,Cochin,07:10,18:10,11h,1 stop,7038
+587,587,Multiple carriers,Delhi,Cochin,09:45,21:20,11h 35m,2 stops,6653
+588,588,Jet Airways,Kolkata,Banglore,20:00,23:35 19 May,27h 35m,1 stop,10844
+589,589,Jet Airways,Banglore,New Delhi,05:45,12:15,6h 30m,1 stop,17524
+590,590,IndiGo,Delhi,Cochin,18:35,01:30 07 May,6h 55m,1 stop,7191
+591,591,Multiple carriers,Delhi,Cochin,10:00,21:00,11h,1 stop,7933
+592,592,Jet Airways,Delhi,Cochin,09:40,04:25 28 May,18h 45m,2 stops,15129
+593,593,Multiple carriers,Delhi,Cochin,08:00,19:15,11h 15m,1 stop,11761
+594,594,IndiGo,Mumbai,Hyderabad,20:05,21:40,1h 35m,non-stop,2227
+595,595,SpiceJet,Kolkata,Banglore,17:10,19:40,2h 30m,non-stop,4174
+596,596,Air India,Banglore,New Delhi,05:50,16:20,10h 30m,2 stops,15119
+597,597,Jet Airways,Delhi,Cochin,02:15,18:50,16h 35m,1 stop,12242
+598,598,Air India,Delhi,Cochin,09:45,23:00,13h 15m,1 stop,8907
+599,599,Multiple carriers,Delhi,Cochin,10:35,19:15,8h 40m,1 stop,7575
+600,600,Air India,Banglore,New Delhi,05:50,22:10,16h 20m,2 stops,13576
+601,601,IndiGo,Mumbai,Hyderabad,16:55,18:25,1h 30m,non-stop,3175
+602,602,Jet Airways,Delhi,Cochin,18:15,19:00 28 May,24h 45m,1 stop,12898
+603,603,Multiple carriers,Delhi,Cochin,09:45,16:10,6h 25m,1 stop,9646
+604,604,Air India,Kolkata,Banglore,16:45,08:55 22 May,16h 10m,2 stops,14960
+605,605,Air Asia,Delhi,Cochin,07:55,13:25,5h 30m,1 stop,6152
+606,606,Multiple carriers,Delhi,Cochin,16:00,01:35 22 Mar,9h 35m,1 stop,13542
+607,607,IndiGo,Kolkata,Banglore,14:25,16:55,2h 30m,non-stop,4804
+608,608,SpiceJet,Banglore,Delhi,21:10,00:05 25 Apr,2h 55m,non-stop,3625
+609,609,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,3943
+610,610,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,4804
+611,611,Jet Airways,Kolkata,Banglore,17:00,21:05 19 May,28h 5m,1 stop,14151
+612,612,IndiGo,Delhi,Cochin,05:05,10:05,5h,1 stop,7894
+613,613,Air India,Banglore,Delhi,06:10,08:55,2h 45m,non-stop,4441
+614,614,Air Asia,Delhi,Cochin,16:45,22:15,5h 30m,1 stop,8327
+615,615,Jet Airways,Delhi,Cochin,22:50,12:35 16 Jun,13h 45m,1 stop,10262
+616,616,Air India,Delhi,Cochin,22:00,19:15 10 Jun,21h 15m,2 stops,10651
+617,617,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,3898
+618,618,Jet Airways,Kolkata,Banglore,08:25,04:40 07 Jun,20h 15m,1 stop,8586
+619,619,Jet Airways,Delhi,Cochin,09:40,12:35 25 Jun,26h 55m,2 stops,13014
+620,620,SpiceJet,Banglore,New Delhi,20:30,23:20,2h 50m,non-stop,5126
+621,621,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4423
+622,622,IndiGo,Delhi,Cochin,08:35,22:20,13h 45m,1 stop,6790
+623,623,IndiGo,Kolkata,Banglore,18:05,23:30,5h 25m,1 stop,6218
+624,624,Jet Airways,Banglore,New Delhi,07:00,16:10,9h 10m,1 stop,12284
+625,625,GoAir,Banglore,Delhi,11:40,14:30,2h 50m,non-stop,3898
+626,626,Air India,Delhi,Cochin,06:05,09:25 22 May,27h 20m,1 stop,7480
+627,627,Jet Airways,Delhi,Cochin,09:00,19:00,10h,1 stop,10262
+628,628,Jet Airways,Delhi,Cochin,14:00,04:25 10 May,14h 25m,1 stop,12373
+629,629,Air India,Delhi,Cochin,13:00,19:15,6h 15m,1 stop,10191
+630,630,Vistara,Kolkata,Banglore,20:20,22:40 13 Jun,26h 20m,1 stop,7927
+631,631,IndiGo,Delhi,Cochin,16:00,01:35 07 Mar,9h 35m,1 stop,14871
+632,632,IndiGo,Delhi,Cochin,02:00,07:25,5h 25m,1 stop,7464
+633,633,Air India,Banglore,New Delhi,08:15,21:25,13h 10m,1 stop,6781
+634,634,Multiple carriers,Delhi,Cochin,07:00,21:00,14h,1 stop,7408
+635,635,Vistara,Delhi,Cochin,14:40,17:50,3h 10m,non-stop,6216
+636,636,Jet Airways,Delhi,Cochin,19:15,04:25 19 May,9h 10m,1 stop,12373
+637,637,Jet Airways,Banglore,New Delhi,07:00,19:10,12h 10m,1 stop,16736
+638,638,Multiple carriers,Delhi,Cochin,11:40,21:00,9h 20m,1 stop,7740
+639,639,Jet Airways,Delhi,Cochin,18:15,12:35 02 Apr,18h 20m,1 stop,5406
+640,640,Jet Airways,Banglore,New Delhi,11:40,20:20,8h 40m,1 stop,7832
+641,641,IndiGo,Delhi,Cochin,08:25,21:00,12h 35m,1 stop,8285
+642,642,Jet Airways,Kolkata,Banglore,17:00,09:45 07 Jun,16h 45m,1 stop,12692
+643,643,Jet Airways,Delhi,Cochin,20:55,19:00 13 Jun,22h 5m,1 stop,10262
+644,644,Air India,Delhi,Cochin,14:10,17:10,3h,non-stop,6094
+645,645,Multiple carriers,Delhi,Cochin,10:20,19:15,8h 55m,1 stop,8266
+646,646,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,8016
+647,647,Air Asia,Kolkata,Banglore,07:35,23:30,15h 55m,1 stop,5320
+648,648,SpiceJet,Banglore,New Delhi,05:45,08:35,2h 50m,non-stop,7110
+649,649,SpiceJet,Kolkata,Banglore,17:10,19:40,2h 30m,non-stop,3841
+650,650,IndiGo,Chennai,Kolkata,05:15,07:40,2h 25m,non-stop,3850
+651,651,Air Asia,Kolkata,Banglore,22:50,01:20 19 Apr,2h 30m,non-stop,4409
+652,652,Air India,Kolkata,Banglore,05:50,23:15,17h 25m,2 stops,12723
+653,653,Multiple carriers,Delhi,Cochin,11:25,19:00,7h 35m,1 stop,11200
+654,654,Jet Airways,Delhi,Cochin,05:30,04:25 16 Jun,22h 55m,2 stops,13014
+655,655,Jet Airways,Delhi,Cochin,16:00,04:25 10 Jun,12h 25m,1 stop,10577
+656,656,Vistara,Delhi,Cochin,14:40,17:50,3h 10m,non-stop,6216
+657,657,IndiGo,Delhi,Cochin,02:00,07:45,5h 45m,1 stop,6386
+658,658,Multiple carriers,Delhi,Cochin,10:20,01:30 28 May,15h 10m,1 stop,6795
+659,659,IndiGo,Kolkata,Banglore,15:15,20:05,4h 50m,1 stop,5170
+660,660,Multiple carriers,Delhi,Cochin,11:30,19:15,7h 45m,1 stop,14848
+661,661,Multiple carriers,Delhi,Cochin,14:00,21:00,7h,1 stop,7153
+662,662,Multiple carriers,Delhi,Cochin,14:35,22:20,7h 45m,1 stop,5883
+663,663,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,4591
+664,664,Vistara,Banglore,Delhi,11:30,14:20,2h 50m,non-stop,5403
+665,665,Multiple carriers,Delhi,Cochin,11:25,19:15,7h 50m,1 stop,7354
+666,666,Multiple carriers,Delhi,Cochin,11:30,01:35 22 Mar,14h 5m,1 stop,13542
+667,667,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,13727
+668,668,Jet Airways,Kolkata,Banglore,17:00,09:45 22 May,16h 45m,1 stop,13067
+669,669,GoAir,Delhi,Cochin,06:00,13:20,7h 20m,1 stop,8422
+670,670,Multiple carriers,Delhi,Cochin,10:00,01:30 13 Jun,15h 30m,1 stop,13377
+671,671,Air India,Kolkata,Banglore,14:15,16:45,2h 30m,non-stop,5510
+672,672,Jet Airways,Banglore,New Delhi,11:40,10:25 07 Mar,22h 45m,1 stop,17261
+673,673,Jet Airways,Banglore,New Delhi,09:45,16:00,6h 15m,1 stop,12295
+674,674,Jet Airways,Delhi,Cochin,21:50,04:25 28 Jun,6h 35m,1 stop,16079
+675,675,Jet Airways,Delhi,Cochin,18:15,04:25 28 Mar,10h 10m,1 stop,12242
+676,676,Jet Airways,Delhi,Cochin,19:10,19:00 07 May,23h 50m,2 stops,15129
+677,677,IndiGo,Kolkata,Banglore,22:10,00:55 10 Mar,2h 45m,non-stop,4148
+678,678,Air India,Delhi,Cochin,20:00,07:40 10 Jun,11h 40m,1 stop,8372
+679,679,Jet Airways,Delhi,Cochin,14:00,12:35 25 Jun,22h 35m,1 stop,10262
+680,680,Multiple carriers,Delhi,Cochin,18:15,01:35 28 Mar,7h 20m,1 stop,12327
+681,681,Multiple carriers,Delhi,Cochin,14:00,01:30 28 Jun,11h 30m,1 stop,13377
+682,682,Air India,Kolkata,Banglore,05:55,23:15,17h 20m,3 stops,15145
+683,683,Vistara,Banglore,Delhi,17:00,19:35,2h 35m,non-stop,4878
+684,684,SpiceJet,Banglore,Delhi,21:10,00:05 02 Apr,2h 55m,non-stop,3625
+685,685,Multiple carriers,Delhi,Cochin,10:20,19:00,8h 40m,1 stop,11789
+686,686,Air India,Kolkata,Banglore,09:25,18:30,9h 5m,1 stop,8891
+687,687,Multiple carriers,Delhi,Cochin,18:00,01:30 16 Jun,7h 30m,1 stop,7408
+688,688,Air India,Kolkata,Banglore,09:10,21:50,12h 40m,2 stops,15187
+689,689,Air India,Delhi,Cochin,17:40,23:00,5h 20m,1 stop,7174
+690,690,Jet Airways,Kolkata,Banglore,17:00,21:05 02 May,28h 5m,1 stop,12121
+691,691,Air India,Delhi,Cochin,05:15,07:40 16 Jun,26h 25m,3 stops,10493
+692,692,Air India,Mumbai,Hyderabad,19:30,20:45,1h 15m,non-stop,2050
+693,693,Jet Airways,Banglore,New Delhi,08:00,21:20,13h 20m,1 stop,7832
+694,694,Jet Airways,Kolkata,Banglore,06:30,12:00,5h 30m,1 stop,10844
+695,695,Vistara,Kolkata,Banglore,07:10,20:20,13h 10m,1 stop,8610
+696,696,Jet Airways,Kolkata,Banglore,21:10,09:20 16 May,12h 10m,1 stop,9663
+697,697,IndiGo,Kolkata,Banglore,15:15,17:45,2h 30m,non-stop,4804
+698,698,Multiple carriers,Delhi,Cochin,04:55,19:00,14h 5m,1 stop,11098
+699,699,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+700,700,Air India,Banglore,Delhi,21:05,23:55,2h 50m,non-stop,6121
+701,701,Jet Airways,Banglore,New Delhi,14:05,20:20,6h 15m,1 stop,19225
+702,702,Multiple carriers,Delhi,Cochin,15:00,01:30 19 May,10h 30m,1 stop,13727
+703,703,IndiGo,Mumbai,Hyderabad,09:10,10:40,1h 30m,non-stop,5755
+704,704,Air India,Delhi,Cochin,21:30,19:15 04 Mar,21h 45m,2 stops,12497
+705,705,Multiple carriers,Delhi,Cochin,10:35,19:15,8h 40m,1 stop,8309
+706,706,IndiGo,Kolkata,Banglore,19:35,23:15,3h 40m,1 stop,4226
+707,707,Multiple carriers,Delhi,Cochin,07:05,21:00,13h 55m,1 stop,10406
+708,708,Jet Airways,Kolkata,Banglore,06:30,22:35,16h 5m,1 stop,8824
+709,709,Jet Airways,Delhi,Cochin,17:30,04:25 28 Mar,10h 55m,1 stop,6540
+710,710,Jet Airways,Banglore,New Delhi,21:25,09:30 07 Mar,12h 5m,1 stop,17261
+711,711,IndiGo,Delhi,Cochin,07:35,16:10,8h 35m,1 stop,7514
+712,712,IndiGo,Banglore,New Delhi,00:40,03:25,2h 45m,non-stop,4944
+713,713,Air India,Delhi,Cochin,16:40,19:15 22 Mar,26h 35m,2 stops,8236
+714,714,Air India,Delhi,Cochin,17:20,09:25 04 Jun,16h 5m,1 stop,7480
+715,715,IndiGo,Mumbai,Hyderabad,12:00,13:25,1h 25m,non-stop,5755
+716,716,IndiGo,Kolkata,Banglore,06:20,10:20,4h,1 stop,4226
+717,717,Jet Airways,Delhi,Cochin,07:05,04:25 07 Mar,21h 20m,1 stop,17234
+718,718,Air India,Kolkata,Banglore,09:25,05:25 16 May,20h,2 stops,14687
+719,719,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,4544
+720,720,Jet Airways,Kolkata,Banglore,18:55,12:00 07 Jun,17h 5m,1 stop,10844
+721,721,IndiGo,Banglore,Delhi,18:25,21:20,2h 55m,non-stop,4823
+722,722,Jet Airways,Kolkata,Banglore,14:05,09:20 25 May,19h 15m,1 stop,14178
+723,723,Air India,Banglore,Delhi,10:00,12:45,2h 45m,non-stop,6961
+724,724,Jet Airways,Delhi,Cochin,18:25,12:35 13 Jun,18h 10m,2 stops,14237
+725,725,Jet Airways,Kolkata,Banglore,08:25,16:20,7h 55m,1 stop,10844
+726,726,Jet Airways,Kolkata,Banglore,20:25,18:00 13 May,21h 35m,1 stop,14151
+727,727,IndiGo,Delhi,Cochin,15:00,01:35 10 Mar,10h 35m,1 stop,13611
+728,728,Multiple carriers,Delhi,Cochin,08:00,19:00,11h,1 stop,12402
+729,729,Air India,Delhi,Cochin,07:00,19:15,12h 15m,1 stop,8669
+730,730,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,5769
+731,731,Jet Airways,Kolkata,Banglore,14:05,23:35,9h 30m,1 stop,14571
+732,732,Air India,Delhi,Cochin,06:50,07:40 07 Jun,24h 50m,2 stops,13381
+733,733,Jet Airways,Delhi,Cochin,19:10,19:00 28 May,23h 50m,2 stops,15129
+734,734,Jet Airways,Delhi,Cochin,02:15,19:00,16h 45m,1 stop,16079
+735,735,Air India,Delhi,Cochin,08:00,19:15,11h 15m,1 stop,16754
+736,736,Air India,Delhi,Cochin,18:05,21:10,3h 5m,non-stop,5201
+737,737,Vistara,Mumbai,Hyderabad,15:40,16:45 07 Mar,25h 5m,1 stop,12395
+738,738,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,5158
+739,739,Air India,Delhi,Cochin,13:20,19:15 22 Mar,29h 55m,2 stops,8708
+740,740,Multiple carriers,Delhi,Cochin,11:40,01:30 04 Jun,13h 50m,1 stop,7530
+741,741,Air India,Banglore,Delhi,21:05,23:55,2h 50m,non-stop,6961
+742,742,Vistara,Banglore,New Delhi,07:00,09:40,2h 40m,non-stop,5403
+743,743,Multiple carriers,Delhi,Cochin,03:50,11:30,7h 40m,1 stop,7408
+744,744,Jet Airways,Kolkata,Banglore,19:45,18:10 25 Mar,22h 25m,1 stop,13759
+745,745,Jet Airways,Kolkata,Banglore,14:05,08:15 13 Jun,18h 10m,1 stop,13044
+746,746,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+747,747,Jet Airways,Mumbai,Hyderabad,14:20,16:50 07 Mar,26h 30m,2 stops,24115
+748,748,Air India,Kolkata,Banglore,05:50,08:55 13 May,27h 5m,2 stops,11411
+749,749,Air India,Delhi,Cochin,10:55,19:15,8h 20m,2 stops,11753
+750,750,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,7229
+751,751,SpiceJet,Kolkata,Banglore,15:05,20:45,5h 40m,1 stop,6197
+752,752,SpiceJet,Mumbai,Hyderabad,05:45,07:15,1h 30m,non-stop,2647
+753,753,Multiple carriers,Delhi,Cochin,08:30,19:00,10h 30m,1 stop,11200
+754,754,Jet Airways,Delhi,Cochin,09:40,12:35 28 Jun,26h 55m,2 stops,13014
+755,755,Air India,Delhi,Cochin,12:55,19:15 19 May,30h 20m,2 stops,13696
+756,756,Vistara,Banglore,New Delhi,16:00,18:35,2h 35m,non-stop,13383
+757,757,SpiceJet,Chennai,Kolkata,09:30,12:05,2h 35m,non-stop,6300
+758,758,Multiple carriers,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,16108
+759,759,Jet Airways,Kolkata,Banglore,16:30,12:00 02 May,19h 30m,1 stop,9663
+760,760,Jet Airways,Kolkata,Banglore,16:30,23:35,7h 5m,1 stop,10844
+761,761,SpiceJet,Mumbai,Hyderabad,13:15,14:45,1h 30m,non-stop,2017
+762,762,IndiGo,Kolkata,Banglore,17:35,22:15,4h 40m,1 stop,5699
+763,763,Air India,Delhi,Cochin,05:15,06:50 10 Mar,25h 35m,1 stop,9790
+764,764,Air India,Kolkata,Banglore,05:50,12:00 07 May,30h 10m,2 stops,11883
+765,765,Multiple carriers,Delhi,Cochin,10:35,19:00,8h 25m,1 stop,10678
+766,766,Jet Airways,Delhi,Cochin,15:00,04:25 22 Mar,13h 25m,1 stop,6017
+767,767,Jet Airways,Banglore,Delhi,15:15,18:10,2h 55m,non-stop,7229
+768,768,Jet Airways,Delhi,Cochin,14:35,04:25 07 Jun,13h 50m,2 stops,10919
+769,769,Jet Airways,Kolkata,Banglore,09:35,23:35,14h,1 stop,14151
+770,770,IndiGo,Mumbai,Hyderabad,20:05,21:40,1h 35m,non-stop,2437
+771,771,Jet Airways,Delhi,Cochin,09:40,04:25 10 May,18h 45m,2 stops,13029
+772,772,Vistara,Delhi,Cochin,14:40,17:50,3h 10m,non-stop,6216
+773,773,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,9653
+774,774,Jet Airways,Delhi,Cochin,13:25,12:35 22 May,23h 10m,2 stops,15129
+775,775,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,14714
+776,776,Jet Airways,Delhi,Cochin,22:50,04:25 22 Mar,5h 35m,1 stop,6017
+777,777,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,4544
+778,778,IndiGo,Delhi,Cochin,04:55,13:20,8h 25m,1 stop,5307
+779,779,Multiple carriers,Delhi,Cochin,11:40,19:15,7h 35m,1 stop,8266
+780,780,IndiGo,Kolkata,Banglore,06:20,10:20,4h,1 stop,4226
+781,781,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,6478
+782,782,Multiple carriers,Delhi,Cochin,11:30,21:00,9h 30m,1 stop,15136
+783,783,Air India,Mumbai,Hyderabad,17:20,14:50,2h 30m,2 stops,11972
+784,784,IndiGo,Delhi,Cochin,06:50,16:10,9h 20m,1 stop,6442
+785,785,Jet Airways,Kolkata,Banglore,20:00,09:20 22 May,13h 20m,1 stop,10844
+786,786,Jet Airways,Delhi,Cochin,22:50,12:35 28 May,13h 45m,1 stop,12898
+787,787,Jet Airways,Delhi,Cochin,11:40,19:00,7h 20m,2 stops,15439
+788,788,SpiceJet,Delhi,Cochin,17:55,22:50,4h 55m,1 stop,5975
+789,789,Air India,Mumbai,Hyderabad,21:05,22:25,1h 20m,non-stop,3100
+790,790,Multiple carriers,Delhi,Cochin,06:00,12:35,6h 35m,1 stop,9794
+791,791,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3841
+792,792,Jet Airways,Delhi,Cochin,19:45,19:00 22 May,23h 15m,1 stop,16079
+793,793,Air India,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,10454
+794,794,Air India,Kolkata,Banglore,12:00,13:15 19 May,25h 15m,1 stop,7662
+795,795,Multiple carriers,Delhi,Cochin,13:00,21:00,8h,1 stop,7408
+796,796,SpiceJet,Kolkata,Banglore,17:10,19:40,2h 30m,non-stop,4174
+797,797,Multiple carriers,Delhi,Cochin,06:00,21:00,15h,1 stop,7485
+798,798,IndiGo,Delhi,Cochin,06:50,12:10,5h 20m,1 stop,5298
+799,799,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,8040
+800,800,Air India,Banglore,New Delhi,11:50,13:00 02 Mar,25h 10m,1 stop,15434
+801,801,Jet Airways,Kolkata,Banglore,08:25,04:40 10 Jun,20h 15m,1 stop,8586
+802,802,Jet Airways,Kolkata,Banglore,18:55,12:00 13 Jun,17h 5m,1 stop,8529
+803,803,Jet Airways,Kolkata,Banglore,13:55,12:00 25 Mar,22h 5m,1 stop,14231
+804,804,Jet Airways,Banglore,Delhi,15:15,18:10,2h 55m,non-stop,5198
+805,805,Jet Airways,Delhi,Cochin,09:35,12:35 16 Jun,27h,2 stops,12609
+806,806,SpiceJet,Chennai,Kolkata,08:20,10:35,2h 15m,non-stop,3332
+807,807,Jet Airways,Kolkata,Banglore,16:30,04:40 16 May,12h 10m,1 stop,10844
+808,808,IndiGo,Delhi,Cochin,06:50,16:10,9h 20m,1 stop,6442
+809,809,Jet Airways,Banglore,New Delhi,08:00,07:40 07 Mar,23h 40m,1 stop,14815
+810,810,IndiGo,Delhi,Cochin,20:25,01:30 07 Jun,5h 5m,1 stop,5054
+811,811,Multiple carriers,Delhi,Cochin,07:00,18:50,11h 50m,1 stop,15867
+812,812,Air India,Delhi,Cochin,19:45,19:15 04 Jun,23h 30m,2 stops,10441
+813,813,Vistara,Kolkata,Banglore,17:00,18:50 07 Jun,25h 50m,1 stop,8820
+814,814,Jet Airways,Banglore,New Delhi,16:55,07:40 02 Mar,14h 45m,1 stop,26890
+815,815,Jet Airways,Banglore,New Delhi,18:55,20:20 13 Mar,25h 25m,1 stop,11087
+816,816,IndiGo,Delhi,Cochin,07:35,12:10,4h 35m,1 stop,5054
+817,817,Multiple carriers,Delhi,Cochin,17:30,01:30 10 May,8h,1 stop,15078
+818,818,Multiple carriers,Delhi,Cochin,07:00,21:00,14h,1 stop,7408
+819,819,Jet Airways,Kolkata,Banglore,08:25,22:35,14h 10m,1 stop,14781
+820,820,Multiple carriers,Delhi,Cochin,09:10,18:50,9h 40m,1 stop,13069
+821,821,Jet Airways,Delhi,Cochin,19:15,18:50 10 Mar,23h 35m,1 stop,16289
+822,822,Multiple carriers,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,16108
+823,823,Air India,Banglore,New Delhi,11:05,09:15 13 Mar,22h 10m,1 stop,11077
+824,824,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3597
+825,825,IndiGo,Banglore,Delhi,10:10,13:00,2h 50m,non-stop,3943
+826,826,SpiceJet,Mumbai,Hyderabad,22:45,00:15 10 May,1h 30m,non-stop,2017
+827,827,Air India,Delhi,Cochin,09:45,09:25 13 Jun,23h 40m,2 stops,10975
+828,828,IndiGo,Mumbai,Hyderabad,19:05,20:35,1h 30m,non-stop,2754
+829,829,Jet Airways,Delhi,Cochin,23:05,04:25 26 Jun,29h 20m,2 stops,12819
+830,830,Jet Airways,Delhi,Cochin,02:15,12:35,10h 20m,1 stop,16376
+831,831,Jet Airways,Delhi,Cochin,09:40,04:25 10 Jun,18h 45m,2 stops,10368
+832,832,IndiGo,Kolkata,Banglore,06:20,10:20,4h,1 stop,4226
+833,833,IndiGo,Kolkata,Banglore,19:35,23:15,3h 40m,1 stop,4226
+834,834,Jet Airways,Kolkata,Banglore,16:30,22:35,6h 5m,1 stop,10844
+835,835,IndiGo,Banglore,New Delhi,13:00,15:50,2h 50m,non-stop,12649
+836,836,Multiple carriers,Delhi,Cochin,12:50,19:15,6h 25m,1 stop,7268
+837,837,Air India,Delhi,Cochin,12:00,07:40 13 Jun,19h 40m,2 stops,8603
+838,838,Multiple carriers,Delhi,Cochin,19:00,01:30 22 May,6h 30m,1 stop,7888
+839,839,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,5911
+840,840,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,4050
+841,841,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,7229
+842,842,Jet Airways,Kolkata,Banglore,14:05,22:35,8h 30m,1 stop,14781
+843,843,Air India,Kolkata,Banglore,19:00,11:05 07 Jun,16h 5m,1 stop,6117
+844,844,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3597
+845,845,Air India,Mumbai,Hyderabad,21:05,22:25,1h 20m,non-stop,4307
+846,846,IndiGo,Kolkata,Banglore,20:20,22:55,2h 35m,non-stop,4804
+847,847,IndiGo,Delhi,Cochin,05:05,10:05,5h,1 stop,6893
+848,848,IndiGo,Banglore,Delhi,08:30,11:20,2h 50m,non-stop,4823
+849,849,Air India,Delhi,Cochin,17:15,07:40 25 Jun,14h 25m,2 stops,11989
+850,850,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,6722
+851,851,Jet Airways,Kolkata,Banglore,14:05,19:50,5h 45m,1 stop,14781
+852,852,Jet Airways,Kolkata,Banglore,08:25,04:40 10 May,20h 15m,1 stop,13941
+853,853,Jet Airways,Banglore,New Delhi,08:00,15:15,7h 15m,1 stop,12284
+854,854,Multiple carriers,Delhi,Cochin,19:00,01:30 04 Jun,6h 30m,1 stop,7198
+855,855,Jet Airways,Delhi,Cochin,19:45,19:00 28 May,23h 15m,1 stop,12898
+856,856,Jet Airways,Delhi,Cochin,05:30,04:25 16 Jun,22h 55m,2 stops,13014
+857,857,Air India,Delhi,Cochin,07:05,19:15 07 Mar,36h 10m,2 stops,11552
+858,858,IndiGo,Banglore,New Delhi,01:30,04:15,2h 45m,non-stop,6144
+859,859,Jet Airways,Delhi,Cochin,05:40,04:25 22 Mar,22h 45m,2 stops,11543
+860,860,Jet Airways,Kolkata,Banglore,16:30,04:40 13 May,12h 10m,1 stop,14388
+861,861,Air India,Delhi,Cochin,09:45,09:25 02 Apr,23h 40m,1 stop,5117
+862,862,Jet Airways,Kolkata,Banglore,09:35,21:05,11h 30m,1 stop,12384
+863,863,IndiGo,Delhi,Cochin,08:25,15:30,7h 5m,1 stop,14871
+864,864,IndiGo,Delhi,Cochin,07:45,13:40,5h 55m,1 stop,6101
+865,865,GoAir,Delhi,Cochin,07:00,12:55,5h 55m,1 stop,4959
+866,866,Vistara,Banglore,Delhi,19:30,22:15,2h 45m,non-stop,4878
+867,867,Jet Airways,Delhi,Cochin,05:25,19:45 07 Mar,38h 20m,2 stops,16389
+868,868,Jet Airways,Banglore,New Delhi,07:00,16:10,9h 10m,1 stop,9134
+869,869,IndiGo,Delhi,Cochin,04:45,15:30,10h 45m,1 stop,14871
+870,870,IndiGo,Banglore,Delhi,20:00,22:50,2h 50m,non-stop,4823
+871,871,Multiple carriers,Delhi,Cochin,08:00,15:30,7h 30m,1 stop,15078
+872,872,Jet Airways,Kolkata,Banglore,20:00,09:20 02 May,13h 20m,1 stop,9663
+873,873,IndiGo,Chennai,Kolkata,22:05,00:25 19 Mar,2h 20m,non-stop,5277
+874,874,Air India,Kolkata,Banglore,12:00,21:50,9h 50m,2 stops,9258
+875,875,Air India,Kolkata,Banglore,07:00,08:55 25 Mar,25h 55m,1 stop,12173
+876,876,IndiGo,Delhi,Cochin,09:10,15:30,6h 20m,1 stop,10141
+877,877,Jet Airways,Kolkata,Banglore,08:25,16:20,7h 55m,1 stop,10031
+878,878,Air India,Delhi,Cochin,20:15,19:15 25 Jun,23h,2 stops,13381
+879,879,Jet Airways,Kolkata,Banglore,14:05,04:40 07 May,14h 35m,1 stop,9663
+880,880,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,3943
+881,881,Jet Airways,Delhi,Cochin,16:10,18:50 22 Mar,26h 40m,2 stops,8728
+882,882,IndiGo,Chennai,Kolkata,05:15,07:40,2h 25m,non-stop,3540
+883,883,SpiceJet,Banglore,New Delhi,05:45,08:35,2h 50m,non-stop,5126
+884,884,Jet Airways,Delhi,Cochin,05:30,12:35,7h 5m,2 stops,13344
+885,885,Jet Airways,Banglore,New Delhi,14:05,09:00 07 Mar,18h 55m,1 stop,17261
+886,886,Jet Airways,Delhi,Cochin,21:25,19:00 28 Jun,21h 35m,2 stops,13292
+887,887,Jet Airways,Kolkata,Banglore,18:55,16:20 16 May,21h 25m,1 stop,10844
+888,888,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4423
+889,889,Air India,Banglore,New Delhi,10:30,11:20 13 Mar,24h 50m,1 stop,10321
+890,890,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,3573
+891,891,Air India,Mumbai,Hyderabad,15:00,16:25,1h 25m,non-stop,3100
+892,892,Jet Airways,Delhi,Cochin,22:50,04:25 25 May,5h 35m,1 stop,16079
+893,893,Jet Airways,Delhi,Cochin,21:50,04:25 10 Jun,6h 35m,1 stop,10262
+894,894,GoAir,Banglore,Delhi,11:40,14:30,2h 50m,non-stop,3898
+895,895,Air India,Banglore,New Delhi,12:00,23:55,11h 55m,3 stops,10573
+896,896,Air Asia,Banglore,New Delhi,23:25,02:10 07 Mar,2h 45m,non-stop,6477
+897,897,Multiple carriers,Delhi,Cochin,06:40,19:15,12h 35m,1 stop,7787
+898,898,Multiple carriers,Delhi,Cochin,10:00,19:00,9h,1 stop,12507
+899,899,Jet Airways,Kolkata,Banglore,14:05,16:20 16 May,26h 15m,1 stop,10844
+900,900,IndiGo,Delhi,Cochin,09:15,01:30 10 May,16h 15m,1 stop,8854
+901,901,SpiceJet,Kolkata,Banglore,14:55,17:25,2h 30m,non-stop,3873
+902,902,SpiceJet,Mumbai,Hyderabad,22:45,00:10 02 Mar,1h 25m,non-stop,11005
+903,903,Air Asia,Kolkata,Banglore,10:20,12:55,2h 35m,non-stop,5216
+904,904,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4174
+905,905,Air India,Mumbai,Hyderabad,06:20,07:40,1h 20m,non-stop,3100
+906,906,SpiceJet,Banglore,Delhi,21:10,00:05 16 May,2h 55m,non-stop,3573
+907,907,SpiceJet,Mumbai,Hyderabad,05:45,07:15,1h 30m,non-stop,2017
+908,908,Jet Airways,Kolkata,Banglore,09:35,14:25 13 May,28h 50m,1 stop,13067
+909,909,Jet Airways,Delhi,Cochin,14:35,12:35 28 Jun,22h,2 stops,13376
+910,910,IndiGo,Delhi,Cochin,07:30,21:00,13h 30m,1 stop,14871
+911,911,Jet Airways,Banglore,New Delhi,09:45,15:55,6h 10m,1 stop,7280
+912,912,Air India,Kolkata,Banglore,05:50,20:25,14h 35m,2 stops,10991
+913,913,Jet Airways,Delhi,Cochin,19:15,19:00 10 May,23h 45m,1 stop,12373
+914,914,Jet Airways,Delhi,Cochin,13:00,19:00,6h,1 stop,12373
+915,915,IndiGo,Mumbai,Hyderabad,16:55,18:25,1h 30m,non-stop,3175
+916,916,Jet Airways,Delhi,Cochin,10:45,18:50 10 Mar,32h 5m,2 stops,19329
+917,917,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,7229
+918,918,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,3919
+919,919,IndiGo,Delhi,Cochin,15:00,01:30 10 Apr,10h 30m,1 stop,6270
+920,920,Jet Airways,Delhi,Cochin,07:05,04:25 10 Jun,21h 20m,1 stop,10262
+921,921,IndiGo,Delhi,Cochin,21:50,03:35 16 May,5h 45m,1 stop,7189
+922,922,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+923,923,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,4030
+924,924,IndiGo,Delhi,Cochin,06:40,16:10,9h 30m,1 stop,9027
+925,925,Jet Airways,Kolkata,Banglore,08:25,08:15 22 May,23h 50m,1 stop,13941
+926,926,Multiple carriers,Delhi,Cochin,03:50,12:35,8h 45m,1 stop,10197
+927,927,Air Asia,Kolkata,Banglore,22:50,01:20 28 Mar,2h 30m,non-stop,3782
+928,928,Multiple carriers,Delhi,Cochin,07:30,21:00,13h 30m,1 stop,7740
+929,929,IndiGo,Chennai,Kolkata,22:05,00:25 04 May,2h 20m,non-stop,5277
+930,930,IndiGo,Banglore,Delhi,01:30,04:15,2h 45m,non-stop,4077
+931,931,Air India,Kolkata,Banglore,09:50,23:15,13h 25m,3 stops,14015
+932,932,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,6478
+933,933,Multiple carriers,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,15342
+934,934,Jet Airways,Banglore,New Delhi,05:45,19:10,13h 25m,1 stop,16736
+935,935,Multiple carriers,Delhi,Cochin,08:30,19:15,10h 45m,1 stop,7677
+936,936,Vistara,Banglore,Delhi,09:45,12:35,2h 50m,non-stop,4668
+937,937,Air India,Kolkata,Banglore,16:50,07:55 13 Jun,15h 5m,1 stop,8366
+938,938,Multiple carriers,Delhi,Cochin,14:00,01:30 16 May,11h 30m,1 stop,13727
+939,939,IndiGo,Kolkata,Banglore,21:25,00:05 16 Jun,2h 40m,non-stop,4804
+940,940,Air India,Banglore,Delhi,17:00,19:45,2h 45m,non-stop,7171
+941,941,Air India,Mumbai,Hyderabad,09:15,09:15 07 Mar,24h,1 stop,9535
+942,942,IndiGo,Delhi,Cochin,07:30,13:20,5h 50m,1 stop,8227
+943,943,Jet Airways,Delhi,Cochin,07:05,19:00,11h 55m,1 stop,12373
+944,944,Jet Airways,Banglore,New Delhi,16:55,10:25 13 Mar,17h 30m,1 stop,13817
+945,945,Jet Airways,Kolkata,Banglore,14:05,23:35,9h 30m,1 stop,10844
+946,946,Vistara,Banglore,Delhi,09:45,12:35,2h 50m,non-stop,4668
+947,947,Multiple carriers,Delhi,Cochin,07:10,22:30,15h 20m,1 stop,6093
+948,948,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,7229
+949,949,Jet Airways,Kolkata,Banglore,14:05,23:35,9h 30m,1 stop,10844
+950,950,Jet Airways,Kolkata,Banglore,20:00,04:40 13 May,8h 40m,1 stop,8586
+951,951,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,10493
+952,952,Multiple carriers,Delhi,Cochin,17:50,01:35 04 Mar,7h 45m,2 stops,24528
+953,953,Jet Airways,Delhi,Cochin,11:00,14:15,3h 15m,non-stop,5443
+954,954,Air India,Delhi,Cochin,05:55,07:40 16 May,25h 45m,2 stops,11543
+955,955,Jet Airways,Kolkata,Banglore,09:35,19:10,9h 35m,1 stop,13994
+956,956,IndiGo,Kolkata,Banglore,15:20,17:55,2h 35m,non-stop,6985
+957,957,SpiceJet,Banglore,Delhi,05:55,08:35,2h 40m,non-stop,3257
+958,958,Jet Airways,Kolkata,Banglore,14:05,10:05 19 May,20h,1 stop,9663
+959,959,IndiGo,Kolkata,Banglore,18:05,23:30,5h 25m,1 stop,6218
+960,960,Jet Airways,Kolkata,Banglore,18:55,12:00 25 May,17h 5m,1 stop,14571
+961,961,Multiple carriers,Delhi,Cochin,06:00,19:00,13h,1 stop,11789
+962,962,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,5224
+963,963,Air India,Delhi,Cochin,05:10,08:00,2h 50m,non-stop,6094
+964,964,IndiGo,Kolkata,Banglore,18:05,23:30,5h 25m,1 stop,6218
+965,965,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3873
+966,966,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,6144
+967,967,Jet Airways,Delhi,Cochin,07:05,04:25 28 May,21h 20m,1 stop,12898
+968,968,IndiGo,Kolkata,Banglore,06:20,10:20,4h,1 stop,4226
+969,969,IndiGo,Kolkata,Banglore,22:10,00:55 04 Mar,2h 45m,non-stop,5618
+970,970,Air India,Delhi,Cochin,17:15,09:25 13 Jun,16h 10m,2 stops,9417
+971,971,Jet Airways,Kolkata,Banglore,09:35,18:00,8h 25m,1 stop,14151
+972,972,Air India,Delhi,Cochin,17:40,09:35 28 May,15h 55m,1 stop,7258
+973,973,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+974,974,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,5418
+975,975,IndiGo,Mumbai,Hyderabad,19:05,20:35,1h 30m,non-stop,2754
+976,976,IndiGo,Mumbai,Hyderabad,02:35,04:05,1h 30m,non-stop,2754
+977,977,IndiGo,Chennai,Kolkata,05:15,07:35,2h 20m,non-stop,6482
+978,978,Jet Airways,Delhi,Cochin,17:30,19:00 19 May,25h 30m,1 stop,12373
+979,979,Air India,Delhi,Cochin,06:10,23:00,16h 50m,1 stop,13002
+980,980,Multiple carriers,Delhi,Cochin,09:45,16:10,6h 25m,1 stop,10276
+981,981,Jet Airways,Delhi,Cochin,07:05,19:00,11h 55m,1 stop,12898
+982,982,Jet Airways,Kolkata,Banglore,16:30,10:05 10 May,17h 35m,1 stop,13941
+983,983,Vistara,Delhi,Cochin,06:00,09:10,3h 10m,non-stop,6216
+984,984,Multiple carriers,Delhi,Cochin,07:05,22:30,15h 25m,1 stop,9856
+985,985,IndiGo,Delhi,Cochin,21:50,03:35 10 Apr,5h 45m,1 stop,7398
+986,986,Jet Airways,Kolkata,Banglore,17:00,14:25 10 Jun,21h 25m,1 stop,14151
+987,987,Air India,Delhi,Cochin,20:30,08:15 10 Apr,11h 45m,1 stop,5683
+988,988,Jet Airways,Delhi,Cochin,21:50,19:00 28 Jun,21h 10m,1 stop,10262
+989,989,Air India,Kolkata,Banglore,09:10,13:15,4h 5m,1 stop,5793
+990,990,Jet Airways,Delhi,Cochin,09:50,13:05,3h 15m,non-stop,9564
+991,991,IndiGo,Banglore,Delhi,01:30,04:15,2h 45m,non-stop,3419
+992,992,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,10529
+993,993,Air India,Banglore,New Delhi,08:50,23:15,14h 25m,1 stop,6824
+994,994,Multiple carriers,Delhi,Cochin,07:05,22:30,15h 25m,1 stop,9646
+995,995,Multiple carriers,Delhi,Cochin,08:00,15:30,7h 30m,1 stop,6673
+996,996,Jet Airways,Kolkata,Banglore,18:55,04:40 22 May,9h 45m,1 stop,14388
+997,997,Air India,Delhi,Cochin,05:55,19:15,13h 20m,2 stops,10861
+998,998,Jet Airways,Kolkata,Banglore,18:55,12:00 16 May,17h 5m,1 stop,10844
+999,999,Jet Airways,Kolkata,Banglore,06:30,04:40 07 May,22h 10m,1 stop,8586
+1000,1000,Air India,Kolkata,Banglore,07:00,05:25 07 Jun,22h 25m,2 stops,12009
+1001,1001,GoAir,Kolkata,Banglore,23:30,07:45 10 Jun,8h 15m,1 stop,6354
+1002,1002,Multiple carriers,Delhi,Cochin,13:00,01:30 07 Jun,12h 30m,1 stop,7198
+1003,1003,Jet Airways,Kolkata,Banglore,14:05,10:05 13 Jun,20h,1 stop,13044
+1004,1004,Jet Airways,Kolkata,Banglore,21:10,20:45 16 May,23h 35m,1 stop,10844
+1005,1005,Multiple carriers,Delhi,Cochin,11:40,01:30 10 May,13h 50m,1 stop,9021
+1006,1006,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,13587
+1007,1007,IndiGo,Delhi,Cochin,18:35,01:30 16 Jun,6h 55m,1 stop,5883
+1008,1008,Jet Airways,Kolkata,Banglore,17:00,21:05 07 May,28h 5m,1 stop,13067
+1009,1009,Jet Airways,Delhi,Cochin,09:40,19:00,9h 20m,2 stops,13014
+1010,1010,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,8040
+1011,1011,Air India,Banglore,New Delhi,13:50,22:10,8h 20m,1 stop,9166
+1012,1012,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3543
+1013,1013,Air India,Delhi,Cochin,09:45,09:25 10 Mar,23h 40m,2 stops,10660
+1014,1014,Multiple carriers,Delhi,Cochin,10:20,19:00,8h 40m,1 stop,11789
+1015,1015,Jet Airways,Delhi,Cochin,13:00,12:35 10 May,23h 35m,1 stop,12373
+1016,1016,Multiple carriers,Delhi,Cochin,13:00,21:00,8h,1 stop,7408
+1017,1017,Air India,Banglore,New Delhi,08:50,10:35 16 Mar,25h 45m,2 stops,11885
+1018,1018,Jet Airways,Mumbai,Hyderabad,15:50,17:20,1h 30m,non-stop,2470
+1019,1019,Jet Airways,Kolkata,Banglore,21:10,10:05 10 Jun,12h 55m,1 stop,11841
+1020,1020,Multiple carriers,Delhi,Cochin,17:50,01:30 07 Jun,7h 40m,2 stops,18275
+1021,1021,Multiple carriers,Delhi,Cochin,09:10,19:15,10h 5m,1 stop,8601
+1022,1022,Air India,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,9404
+1023,1023,Jet Airways,Kolkata,Banglore,18:55,04:40 13 Jun,9h 45m,1 stop,6959
+1024,1024,Jet Airways,Delhi,Cochin,21:50,04:25 25 Jun,6h 35m,1 stop,10262
+1025,1025,Jet Airways,Delhi,Cochin,18:15,19:00 04 Jun,24h 45m,1 stop,10262
+1026,1026,Jet Airways,Delhi,Cochin,19:10,19:00 25 May,23h 50m,2 stops,15129
+1027,1027,Multiple carriers,Delhi,Cochin,13:00,21:00,8h,1 stop,12537
+1028,1028,IndiGo,Banglore,Delhi,18:55,21:50,2h 55m,non-stop,4823
+1029,1029,Jet Airways,Mumbai,Hyderabad,07:05,08:30,1h 25m,non-stop,4995
+1030,1030,Jet Airways,Mumbai,Hyderabad,19:35,21:05,1h 30m,non-stop,5678
+1031,1031,Jet Airways,Mumbai,Hyderabad,19:35,21:05,1h 30m,non-stop,5678
+1032,1032,IndiGo,Kolkata,Banglore,19:35,23:15,3h 40m,1 stop,4226
+1033,1033,Air Asia,Delhi,Cochin,07:55,22:25,14h 30m,1 stop,8759
+1034,1034,IndiGo,Banglore,New Delhi,16:55,19:45,2h 50m,non-stop,7303
+1035,1035,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3841
+1036,1036,Jet Airways,Mumbai,Hyderabad,07:10,08:35,1h 25m,non-stop,5678
+1037,1037,Vistara,Kolkata,Banglore,20:20,09:05 10 May,12h 45m,1 stop,9187
+1038,1038,Vistara,Kolkata,Banglore,07:10,22:55,15h 45m,1 stop,8662
+1039,1039,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3841
+1040,1040,IndiGo,Kolkata,Banglore,11:30,14:05,2h 35m,non-stop,4804
+1041,1041,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,8016
+1042,1042,SpiceJet,Mumbai,Hyderabad,05:45,07:15,1h 30m,non-stop,2753
+1043,1043,Jet Airways,Delhi,Cochin,18:15,19:00 28 Jun,24h 45m,1 stop,10262
+1044,1044,SpiceJet,Kolkata,Banglore,17:15,19:45,2h 30m,non-stop,5515
+1045,1045,SpiceJet,Mumbai,Hyderabad,22:45,00:15 07 Jun,1h 30m,non-stop,1965
+1046,1046,IndiGo,Chennai,Kolkata,22:05,00:25 25 Mar,2h 20m,non-stop,5277
+1047,1047,Jet Airways,Delhi,Cochin,02:15,19:00,16h 45m,1 stop,10262
+1048,1048,IndiGo,Chennai,Kolkata,14:45,17:05,2h 20m,non-stop,3858
+1049,1049,Jet Airways,Banglore,Delhi,15:15,18:10,2h 55m,non-stop,3702
+1050,1050,IndiGo,Kolkata,Banglore,22:15,00:50 19 Jun,2h 35m,non-stop,4804
+1051,1051,Multiple carriers,Delhi,Cochin,14:00,21:00,7h,1 stop,13727
+1052,1052,Jet Airways,Kolkata,Banglore,20:00,22:35 25 May,26h 35m,1 stop,10844
+1053,1053,Multiple carriers,Delhi,Cochin,11:30,21:00,9h 30m,1 stop,13587
+1054,1054,IndiGo,Delhi,Cochin,06:50,16:10,9h 20m,1 stop,6442
+1055,1055,Vistara,Kolkata,Banglore,20:20,18:50 10 Jun,22h 30m,1 stop,8610
+1056,1056,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,4544
+1057,1057,Vistara,Chennai,Kolkata,07:05,09:20,2h 15m,non-stop,3687
+1058,1058,Vistara,Kolkata,Banglore,07:10,22:55,15h 45m,1 stop,8295
+1059,1059,Vistara,Kolkata,Banglore,20:20,18:45 25 Mar,22h 25m,1 stop,12102
+1060,1060,Jet Airways,Kolkata,Banglore,20:00,19:50 02 Apr,23h 50m,1 stop,7064
+1061,1061,IndiGo,Chennai,Kolkata,13:20,15:35,2h 15m,non-stop,3384
+1062,1062,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,5769
+1063,1063,Jet Airways,Kolkata,Banglore,09:35,22:05,12h 30m,1 stop,14151
+1064,1064,Jet Airways,Kolkata,Banglore,16:30,19:50 02 Apr,27h 20m,1 stop,7064
+1065,1065,Jet Airways,Banglore,New Delhi,07:00,21:20,14h 20m,1 stop,16736
+1066,1066,Jet Airways,Delhi,Cochin,20:00,04:25 19 May,8h 25m,2 stops,16263
+1067,1067,Air India,Kolkata,Banglore,14:15,16:45,2h 30m,non-stop,5510
+1068,1068,Jet Airways,Kolkata,Banglore,17:00,22:05 10 Jun,29h 5m,1 stop,10539
+1069,1069,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,7229
+1070,1070,Air India,Chennai,Kolkata,11:40,13:55,2h 15m,non-stop,3145
+1071,1071,IndiGo,Delhi,Cochin,16:10,22:20,6h 10m,1 stop,7205
+1072,1072,IndiGo,Kolkata,Banglore,22:15,00:50 22 Jun,2h 35m,non-stop,4804
+1073,1073,IndiGo,Banglore,Delhi,04:00,06:50,2h 50m,non-stop,3943
+1074,1074,Air India,Banglore,New Delhi,08:15,08:50 16 Mar,24h 35m,1 stop,5521
+1075,1075,Jet Airways,Delhi,Cochin,06:20,04:25 28 Mar,22h 5m,2 stops,12273
+1076,1076,Air India,Kolkata,Banglore,09:25,13:45 25 May,28h 20m,2 stops,12802
+1077,1077,IndiGo,Kolkata,Banglore,17:35,22:15,4h 40m,1 stop,5699
+1078,1078,SpiceJet,Banglore,Delhi,21:10,00:05 22 May,2h 55m,non-stop,3625
+1079,1079,Jet Airways,Delhi,Cochin,08:00,04:25 28 Mar,20h 25m,1 stop,6645
+1080,1080,Jet Airways,Delhi,Cochin,19:15,12:35 28 May,17h 20m,1 stop,12898
+1081,1081,Jet Airways,Delhi,Cochin,11:30,19:00,7h 30m,1 stop,14714
+1082,1082,IndiGo,Banglore,Delhi,16:55,19:55,3h,non-stop,4823
+1083,1083,SpiceJet,Banglore,New Delhi,10:20,18:15,7h 55m,1 stop,7139
+1084,1084,Jet Airways,Delhi,Cochin,05:30,04:25 10 Jun,22h 55m,2 stops,13292
+1085,1085,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,3898
+1086,1086,Jet Airways,Kolkata,Banglore,17:00,23:35,6h 35m,1 stop,12384
+1087,1087,Air India,Mumbai,Hyderabad,06:20,07:40,1h 20m,non-stop,3100
+1088,1088,IndiGo,Delhi,Cochin,04:55,16:10,11h 15m,1 stop,6171
+1089,1089,IndiGo,Banglore,Delhi,23:30,02:20 19 May,2h 50m,non-stop,4591
+1090,1090,Air India,Kolkata,Banglore,10:00,13:45 02 May,27h 45m,2 stops,15164
+1091,1091,Air India,Mumbai,Hyderabad,21:05,22:25,1h 20m,non-stop,2050
+1092,1092,Jet Airways,Mumbai,Hyderabad,02:55,04:25,1h 30m,non-stop,5678
+1093,1093,Jet Airways,Kolkata,Banglore,14:05,19:50,5h 45m,1 stop,10844
+1094,1094,IndiGo,Banglore,Delhi,01:30,04:15,2h 45m,non-stop,3943
+1095,1095,Multiple carriers,Delhi,Cochin,11:40,21:00,9h 20m,1 stop,7005
+1096,1096,IndiGo,Delhi,Cochin,23:30,04:35 02 Jun,5h 5m,1 stop,10112
+1097,1097,Jet Airways,Banglore,New Delhi,19:55,22:35,2h 40m,non-stop,18308
+1098,1098,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,4544
+1099,1099,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+1100,1100,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,4812
+1101,1101,Air India,Kolkata,Banglore,09:25,13:45 10 May,28h 20m,2 stops,12592
+1102,1102,Jet Airways,Delhi,Cochin,13:00,19:00,6h,1 stop,10262
+1103,1103,Jet Airways,Mumbai,Hyderabad,07:05,08:30,1h 25m,non-stop,4995
+1104,1104,Multiple carriers,Delhi,Cochin,11:30,19:15,7h 45m,1 stop,13378
+1105,1105,Jet Airways,Delhi,Cochin,23:05,12:35 28 May,13h 30m,2 stops,15129
+1106,1106,Multiple carriers,Delhi,Cochin,07:10,22:30,15h 20m,1 stop,7038
+1107,1107,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,10262
+1108,1108,IndiGo,Banglore,New Delhi,16:15,20:35,4h 20m,1 stop,7917
+1109,1109,IndiGo,Banglore,Delhi,16:55,19:55,3h,non-stop,4823
+1110,1110,SpiceJet,Kolkata,Banglore,09:00,11:30,2h 30m,non-stop,3847
+1111,1111,Multiple carriers,Delhi,Cochin,06:00,19:00,13h,1 stop,11789
+1112,1112,SpiceJet,Mumbai,Hyderabad,05:45,07:05,1h 20m,non-stop,2175
+1113,1113,Jet Airways,Delhi,Cochin,09:00,12:35 04 Jun,27h 35m,1 stop,10262
+1114,1114,IndiGo,Kolkata,Banglore,04:40,07:15,2h 35m,non-stop,4804
+1115,1115,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,4030
+1116,1116,IndiGo,Delhi,Cochin,02:05,07:10,5h 5m,1 stop,10482
+1117,1117,Air India,Kolkata,Banglore,16:45,08:55 16 May,16h 10m,2 stops,14960
+1118,1118,IndiGo,Banglore,Delhi,23:30,02:20 10 Jun,2h 50m,non-stop,4591
+1119,1119,Air India,Kolkata,Banglore,09:25,18:20,8h 55m,2 stops,8366
+1120,1120,Air India,Delhi,Cochin,19:45,19:15 28 Jun,23h 30m,2 stops,9653
+1121,1121,Jet Airways,Delhi,Cochin,05:30,04:25 16 Jun,22h 55m,2 stops,10368
+1122,1122,Jet Airways,Kolkata,Banglore,14:05,12:00 10 May,21h 55m,1 stop,9663
+1123,1123,Multiple carriers,Delhi,Cochin,07:05,22:20,15h 15m,1 stop,10478
+1124,1124,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3384
+1125,1125,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3597
+1126,1126,Vistara,Banglore,Delhi,17:00,19:35,2h 35m,non-stop,4878
+1127,1127,Jet Airways,Kolkata,Banglore,09:35,10:55 07 Jun,25h 20m,1 stop,10539
+1128,1128,SpiceJet,Chennai,Kolkata,09:30,12:05,2h 35m,non-stop,7298
+1129,1129,Air India,Delhi,Cochin,12:55,19:15 22 Mar,30h 20m,2 stops,11228
+1130,1130,Vistara,Kolkata,Banglore,20:20,22:40 16 May,26h 20m,1 stop,8452
+1131,1131,Air India,Delhi,Cochin,10:00,19:15,9h 15m,1 stop,12029
+1132,1132,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,2759
+1133,1133,Multiple carriers,Delhi,Cochin,09:15,19:00,9h 45m,1 stop,9627
+1134,1134,Air India,Delhi,Cochin,09:45,23:00,13h 15m,1 stop,8907
+1135,1135,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,4030
+1136,1136,IndiGo,Banglore,Delhi,04:00,06:50,2h 50m,non-stop,4423
+1137,1137,Vistara,Mumbai,Hyderabad,08:45,19:55,11h 10m,1 stop,12395
+1138,1138,Jet Airways,Delhi,Cochin,16:00,04:25 07 Jun,12h 25m,1 stop,10262
+1139,1139,Jet Airways,Banglore,New Delhi,05:45,21:20,15h 35m,1 stop,13817
+1140,1140,Jet Airways,Delhi,Cochin,14:35,04:25 10 Jun,13h 50m,2 stops,13376
+1141,1141,IndiGo,Delhi,Cochin,06:50,16:10,9h 20m,1 stop,6442
+1142,1142,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3873
+1143,1143,Jet Airways,Kolkata,Banglore,20:00,04:40 02 May,8h 40m,1 stop,8586
+1144,1144,Jet Airways,Banglore,New Delhi,22:50,09:30 02 Mar,10h 40m,1 stop,31825
+1145,1145,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,5048
+1146,1146,Multiple carriers,Delhi,Cochin,11:40,19:15,7h 35m,1 stop,8266
+1147,1147,Multiple carriers,Delhi,Cochin,09:15,19:00,9h 45m,1 stop,12042
+1148,1148,Jet Airways,Kolkata,Banglore,18:55,10:05 07 May,15h 10m,1 stop,7757
+1149,1149,Jet Airways,Delhi,Cochin,07:05,12:35,5h 30m,1 stop,10262
+1150,1150,IndiGo,Banglore,New Delhi,21:20,00:15 04 Mar,2h 55m,non-stop,6144
+1151,1151,IndiGo,Chennai,Kolkata,07:55,10:15,2h 20m,non-stop,8580
+1152,1152,Air India,Kolkata,Banglore,08:20,20:25,12h 5m,2 stops,11432
+1153,1153,IndiGo,Banglore,Delhi,00:25,03:15,2h 50m,non-stop,3943
+1154,1154,Jet Airways,Kolkata,Banglore,20:00,12:00 02 Apr,16h,1 stop,7064
+1155,1155,Vistara,Banglore,Delhi,09:45,12:35,2h 50m,non-stop,5403
+1156,1156,Jet Airways,Delhi,Cochin,05:30,12:35,7h 5m,2 stops,15544
+1157,1157,Jet Airways,Kolkata,Banglore,20:25,19:10 13 May,22h 45m,1 stop,13067
+1158,1158,Air India,Kolkata,Banglore,14:15,16:45,2h 30m,non-stop,5170
+1159,1159,Air India,Kolkata,Banglore,09:50,08:55 02 May,23h 5m,2 stops,13227
+1160,1160,IndiGo,Mumbai,Hyderabad,02:35,04:05,1h 30m,non-stop,2754
+1161,1161,Jet Airways,Delhi,Cochin,05:30,04:25 25 Jun,22h 55m,2 stops,10368
+1162,1162,IndiGo,Banglore,Delhi,22:10,01:00 13 Jun,2h 50m,non-stop,3419
+1163,1163,IndiGo,Kolkata,Banglore,08:10,13:00,4h 50m,1 stop,5069
+1164,1164,SpiceJet,Kolkata,Banglore,11:15,18:30,7h 15m,1 stop,8844
+1165,1165,IndiGo,Delhi,Cochin,20:25,01:30 19 May,5h 5m,1 stop,6069
+1166,1166,GoAir,Banglore,Delhi,11:40,14:30,2h 50m,non-stop,3898
+1167,1167,Jet Airways,Kolkata,Banglore,17:00,22:05 25 May,29h 5m,1 stop,13067
+1168,1168,Multiple carriers,Delhi,Cochin,07:00,19:00,12h,1 stop,12192
+1169,1169,Jet Airways,Delhi,Cochin,07:05,18:50,11h 45m,1 stop,12767
+1170,1170,IndiGo,Kolkata,Banglore,15:10,17:45,2h 35m,non-stop,4462
+1171,1171,Air Asia,Kolkata,Banglore,22:50,01:20 04 Apr,2h 30m,non-stop,3807
+1172,1172,Jet Airways,Banglore,New Delhi,22:50,07:40 19 Mar,8h 50m,1 stop,7045
+1173,1173,Air Asia,Kolkata,Banglore,19:35,22:05,2h 30m,non-stop,4384
+1174,1174,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,3898
+1175,1175,IndiGo,Delhi,Cochin,16:00,01:30 10 Apr,9h 30m,1 stop,6573
+1176,1176,IndiGo,Delhi,Cochin,23:30,04:35 28 Jun,5h 5m,1 stop,9165
+1177,1177,Air India,Kolkata,Banglore,05:50,13:15,7h 25m,2 stops,5562
+1178,1178,Air India,Banglore,New Delhi,06:45,11:10 02 Mar,28h 25m,2 stops,20999
+1179,1179,Jet Airways,Kolkata,Banglore,14:05,12:00 02 May,21h 55m,1 stop,9663
+1180,1180,Jet Airways,Kolkata,Banglore,20:00,04:40 22 May,8h 40m,1 stop,10844
+1181,1181,Jet Airways,Kolkata,Banglore,18:55,12:00 10 Jun,17h 5m,1 stop,14571
+1182,1182,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,7229
+1183,1183,IndiGo,Kolkata,Banglore,15:15,17:45,2h 30m,non-stop,4804
+1184,1184,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,5769
+1185,1185,Air India,Delhi,Cochin,22:00,19:15 16 May,21h 15m,2 stops,11281
+1186,1186,IndiGo,Delhi,Cochin,05:35,08:50,3h 15m,non-stop,6885
+1187,1187,Air India,Delhi,Cochin,10:55,19:15,8h 20m,2 stops,13013
+1188,1188,Jet Airways,Delhi,Cochin,13:25,12:35 10 May,23h 10m,2 stops,16704
+1189,1189,SpiceJet,Kolkata,Banglore,08:35,17:15,8h 40m,1 stop,6013
+1190,1190,Jet Airways,Kolkata,Banglore,21:10,08:15 10 Jun,11h 5m,1 stop,14939
+1191,1191,Jet Airways,Delhi,Cochin,17:30,19:00 04 Jun,25h 30m,1 stop,10262
+1192,1192,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,14714
+1193,1193,Jet Airways,Kolkata,Banglore,18:55,22:35 07 Jun,27h 40m,1 stop,10844
+1194,1194,Multiple carriers,Delhi,Cochin,10:00,01:30 19 May,15h 30m,1 stop,8073
+1195,1195,Jet Airways,Kolkata,Banglore,06:30,18:15,11h 45m,1 stop,14781
+1196,1196,Air India,Delhi,Cochin,07:00,19:15,12h 15m,1 stop,9929
+1197,1197,Jet Airways,Delhi,Cochin,13:00,19:00,6h,1 stop,10262
+1198,1198,Jet Airways,Kolkata,Banglore,21:10,19:50 22 May,22h 40m,1 stop,10844
+1199,1199,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,7229
+1200,1200,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3873
+1201,1201,IndiGo,Banglore,Delhi,00:30,03:25,2h 55m,non-stop,3419
+1202,1202,IndiGo,Delhi,Cochin,07:35,16:10,8h 35m,1 stop,6442
+1203,1203,Air India,Kolkata,Banglore,09:25,13:45 10 Jun,28h 20m,2 stops,11542
+1204,1204,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,8016
+1205,1205,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3543
+1206,1206,Air India,Delhi,Cochin,12:30,09:25 13 Jun,20h 55m,1 stop,7480
+1207,1207,Jet Airways,Delhi,Cochin,09:50,13:05,3h 15m,non-stop,4466
+1208,1208,Vistara,Kolkata,Banglore,20:20,09:10 25 Mar,12h 50m,1 stop,12312
+1209,1209,IndiGo,Kolkata,Banglore,15:15,20:05,4h 50m,1 stop,4775
+1210,1210,IndiGo,Delhi,Cochin,02:00,07:45,5h 45m,1 stop,5733
+1211,1211,Jet Airways,Kolkata,Banglore,21:10,09:20 02 Apr,12h 10m,1 stop,8849
+1212,1212,IndiGo,Banglore,New Delhi,20:00,22:55,2h 55m,non-stop,6144
+1213,1213,Air India,Kolkata,Banglore,09:10,13:15,4h 5m,1 stop,8996
+1214,1214,SpiceJet,Kolkata,Banglore,22:20,00:40 04 Apr,2h 20m,non-stop,3873
+1215,1215,Air India,Kolkata,Banglore,05:50,08:55 19 May,27h 5m,2 stops,12723
+1216,1216,Jet Airways,Mumbai,Hyderabad,07:05,08:30,1h 25m,non-stop,4995
+1217,1217,Multiple carriers,Delhi,Cochin,17:00,01:35 28 Mar,8h 35m,1 stop,6673
+1218,1218,Air India,Delhi,Cochin,07:00,19:15,12h 15m,1 stop,15809
+1219,1219,SpiceJet,Kolkata,Banglore,22:20,00:40 25 Jun,2h 20m,non-stop,3841
+1220,1220,Jet Airways,Kolkata,Banglore,16:30,19:50 07 May,27h 20m,1 stop,9663
+1221,1221,Jet Airways,Delhi,Cochin,14:35,04:25 25 Jun,13h 50m,2 stops,13376
+1222,1222,Air India,Banglore,New Delhi,21:10,23:55,2h 45m,non-stop,7591
+1223,1223,GoAir,Delhi,Cochin,14:25,19:35,5h 10m,1 stop,10188
+1224,1224,Multiple carriers,Delhi,Cochin,10:20,01:30 04 Jun,15h 10m,1 stop,6795
+1225,1225,Air India,Mumbai,Hyderabad,06:20,07:40,1h 20m,non-stop,3100
+1226,1226,Vistara,Kolkata,Banglore,17:00,09:05 10 May,16h 5m,1 stop,9187
+1227,1227,Multiple carriers,Delhi,Cochin,08:00,19:00,11h,1 stop,12192
+1228,1228,Multiple carriers,Delhi,Cochin,06:40,19:15,12h 35m,1 stop,7564
+1229,1229,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,8016
+1230,1230,IndiGo,Banglore,Delhi,01:30,04:15,2h 45m,non-stop,4423
+1231,1231,Air India,Mumbai,Hyderabad,06:20,07:40,1h 20m,non-stop,3100
+1232,1232,IndiGo,Chennai,Kolkata,07:55,10:15,2h 20m,non-stop,3850
+1233,1233,IndiGo,Chennai,Kolkata,22:05,00:25 25 Jun,2h 20m,non-stop,5277
+1234,1234,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,5198
+1235,1235,Multiple carriers,Delhi,Cochin,11:40,19:00,7h 20m,1 stop,10529
+1236,1236,IndiGo,Kolkata,Banglore,06:20,10:20,4h,1 stop,4226
+1237,1237,GoAir,Delhi,Cochin,07:25,13:20,5h 55m,1 stop,5842
+1238,1238,IndiGo,Banglore,New Delhi,07:30,12:20,4h 50m,1 stop,8110
+1239,1239,Jet Airways,Kolkata,Banglore,09:35,09:45 25 May,24h 10m,1 stop,13067
+1240,1240,IndiGo,Banglore,Delhi,20:00,22:50,2h 50m,non-stop,4823
+1241,1241,Jet Airways,Kolkata,Banglore,17:00,19:10 02 May,26h 10m,1 stop,9314
+1242,1242,Air India,Kolkata,Banglore,09:25,05:25 10 Jun,20h,2 stops,13007
+1243,1243,Air India,Delhi,Cochin,19:00,07:40 04 Mar,12h 40m,1 stop,14777
+1244,1244,Jet Airways,Kolkata,Banglore,20:00,09:20 13 May,13h 20m,1 stop,14388
+1245,1245,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,7229
+1246,1246,Jet Airways,Mumbai,Hyderabad,19:35,21:05,1h 30m,non-stop,5678
+1247,1247,Multiple carriers,Delhi,Cochin,08:00,15:30,7h 30m,1 stop,12537
+1248,1248,Jet Airways,Delhi,Cochin,06:45,04:25 25 Jun,21h 40m,2 stops,13376
+1249,1249,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3597
+1250,1250,IndiGo,Banglore,New Delhi,00:40,03:25,2h 45m,non-stop,6860
+1251,1251,Jet Airways,Delhi,Cochin,05:30,12:35,7h 5m,2 stops,13344
+1252,1252,Jet Airways,Delhi,Cochin,19:10,18:50 22 Mar,23h 40m,2 stops,6643
+1253,1253,Jet Airways,Kolkata,Banglore,14:05,22:35,8h 30m,1 stop,10844
+1254,1254,Multiple carriers,Delhi,Cochin,14:55,22:30,7h 35m,1 stop,7740
+1255,1255,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,3419
+1256,1256,Air India,Kolkata,Banglore,14:35,14:35 19 May,24h,1 stop,6528
+1257,1257,IndiGo,Banglore,Delhi,00:30,03:25,2h 55m,non-stop,3943
+1258,1258,Jet Airways,Banglore,New Delhi,11:40,05:05 16 Mar,17h 25m,1 stop,13555
+1259,1259,Multiple carriers,Delhi,Cochin,11:40,19:15,7h 35m,1 stop,8266
+1260,1260,Air India,Delhi,Cochin,12:55,19:15 10 Jun,30h 20m,2 stops,12436
+1261,1261,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,4804
+1262,1262,Air Asia,Kolkata,Banglore,10:20,12:55,2h 35m,non-stop,4508
+1263,1263,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,4632
+1264,1264,Air India,Delhi,Cochin,09:45,09:25 28 Jun,23h 40m,2 stops,10975
+1265,1265,IndiGo,Kolkata,Banglore,20:25,23:05,2h 40m,non-stop,4462
+1266,1266,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4885
+1267,1267,Vistara,Mumbai,Hyderabad,08:45,22:55,14h 10m,1 stop,12395
+1268,1268,IndiGo,Mumbai,Hyderabad,16:55,18:25,1h 30m,non-stop,6795
+1269,1269,Jet Airways,Delhi,Cochin,09:40,12:35 28 May,26h 55m,2 stops,15129
+1270,1270,Jet Airways,Banglore,New Delhi,20:35,10:25 07 Mar,13h 50m,1 stop,17261
+1271,1271,Air India,Kolkata,Banglore,09:50,23:15,13h 25m,2 stops,14960
+1272,1272,Air India,Delhi,Cochin,07:00,19:15,12h 15m,2 stops,10913
+1273,1273,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3873
+1274,1274,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,5228
+1275,1275,Air India,Kolkata,Banglore,09:10,13:40,4h 30m,1 stop,8026
+1276,1276,Multiple carriers,Delhi,Cochin,06:00,21:00,15h,1 stop,8475
+1277,1277,Jet Airways,Kolkata,Banglore,17:00,22:05 02 May,29h 5m,1 stop,14151
+1278,1278,IndiGo,Delhi,Cochin,02:35,08:30,5h 55m,1 stop,13790
+1279,1279,Air India,Delhi,Cochin,16:55,19:15 28 Jun,26h 20m,2 stops,13591
+1280,1280,Jet Airways,Kolkata,Banglore,16:30,22:35,6h 5m,1 stop,7064
+1281,1281,IndiGo,Kolkata,Banglore,20:20,22:55,2h 35m,non-stop,4804
+1282,1282,Jet Airways,Delhi,Cochin,11:30,19:00,7h 30m,1 stop,6542
+1283,1283,Jet Airways,Kolkata,Banglore,16:30,09:20 25 May,16h 50m,1 stop,9663
+1284,1284,Jet Airways,Kolkata,Banglore,08:25,20:45,12h 20m,1 stop,10844
+1285,1285,IndiGo,Delhi,Cochin,04:55,16:10,11h 15m,1 stop,8513
+1286,1286,Air Asia,Kolkata,Banglore,22:50,01:20 25 Mar,2h 30m,non-stop,5620
+1287,1287,IndiGo,Banglore,New Delhi,10:10,13:00,2h 50m,non-stop,4777
+1288,1288,Air India,Mumbai,Hyderabad,13:55,15:25,1h 30m,non-stop,3100
+1289,1289,Air India,Kolkata,Banglore,20:45,23:20,2h 35m,non-stop,4145
+1290,1290,Jet Airways,Kolkata,Banglore,17:00,14:25 22 May,21h 25m,1 stop,9314
+1291,1291,Multiple carriers,Delhi,Cochin,19:00,01:30 07 Jun,6h 30m,1 stop,7530
+1292,1292,Jet Airways,Delhi,Cochin,05:25,04:25 07 Mar,23h,2 stops,16914
+1293,1293,Multiple carriers,Delhi,Cochin,08:00,19:15,11h 15m,1 stop,16108
+1294,1294,Jet Airways,Kolkata,Banglore,20:25,19:10 22 May,22h 45m,1 stop,13067
+1295,1295,Multiple carriers,Delhi,Cochin,11:25,19:00,7h 35m,1 stop,9103
+1296,1296,Jet Airways,Kolkata,Banglore,20:00,23:35 25 May,27h 35m,1 stop,10844
+1297,1297,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,8603
+1298,1298,Jet Airways,Banglore,New Delhi,08:55,15:15,6h 20m,1 stop,26890
+1299,1299,Jet Airways,Delhi,Cochin,20:55,04:25 28 May,7h 30m,1 stop,16079
+1300,1300,Jet Airways,Delhi,Cochin,13:00,19:00,6h,1 stop,14714
+1301,1301,Jet Airways,Banglore,New Delhi,16:55,00:45 02 Mar,7h 50m,1 stop,26890
+1302,1302,IndiGo,Delhi,Cochin,23:30,04:35 25 Jun,5h 5m,1 stop,9165
+1303,1303,Air Asia,Kolkata,Banglore,15:10,23:30,8h 20m,2 stops,5192
+1304,1304,IndiGo,Kolkata,Banglore,17:15,19:50,2h 35m,non-stop,5224
+1305,1305,Jet Airways,Kolkata,Banglore,19:45,09:15 25 Mar,13h 30m,1 stop,11134
+1306,1306,IndiGo,Kolkata,Banglore,20:25,23:05,2h 40m,non-stop,4148
+1307,1307,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,5678
+1308,1308,Air India,Banglore,New Delhi,17:00,22:55 16 Mar,29h 55m,2 stops,8534
+1309,1309,Jet Airways,Delhi,Cochin,23:05,19:00 28 Jun,19h 55m,2 stops,12819
+1310,1310,Jet Airways,Mumbai,Hyderabad,02:55,04:20,1h 25m,non-stop,5678
+1311,1311,Air India,Banglore,New Delhi,08:50,23:25,14h 35m,2 stops,13250
+1312,1312,Jet Airways,Kolkata,Banglore,09:35,21:05,11h 30m,1 stop,8066
+1313,1313,Jet Airways,Kolkata,Banglore,06:30,04:40 13 Jun,22h 10m,1 stop,12739
+1314,1314,Jet Airways,Delhi,Cochin,19:15,04:25 28 Mar,9h 10m,1 stop,12242
+1315,1315,Jet Airways,Banglore,New Delhi,08:55,08:15 16 Mar,23h 20m,1 stop,10405
+1316,1316,Air Asia,Delhi,Cochin,07:55,22:25,14h 30m,1 stop,7452
+1317,1317,IndiGo,Delhi,Cochin,10:35,21:00,10h 25m,1 stop,6314
+1318,1318,Multiple carriers,Delhi,Cochin,06:00,19:00,13h,1 stop,10791
+1319,1319,Jet Airways,Delhi,Cochin,22:50,04:25 19 May,5h 35m,1 stop,12373
+1320,1320,Jet Airways,Kolkata,Banglore,16:55,16:20 25 Mar,23h 25m,1 stop,11134
+1321,1321,Air India,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,8372
+1322,1322,Vistara,Kolkata,Banglore,17:00,23:25,6h 25m,1 stop,8085
+1323,1323,Jet Airways,Delhi,Cochin,20:55,04:25 02 Jun,7h 30m,1 stop,10262
+1324,1324,Air India,Delhi,Cochin,05:10,08:00,2h 50m,non-stop,6094
+1325,1325,IndiGo,Mumbai,Hyderabad,06:20,07:45,1h 25m,non-stop,3175
+1326,1326,Multiple carriers,Delhi,Cochin,08:00,19:00,11h,1 stop,11142
+1327,1327,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,15129
+1328,1328,Air India,Mumbai,Hyderabad,19:40,09:10 13 Mar,13h 30m,1 stop,10208
+1329,1329,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,12898
+1330,1330,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,14714
+1331,1331,Air India,Banglore,New Delhi,05:50,22:10,16h 20m,2 stops,9796
+1332,1332,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,5769
+1333,1333,IndiGo,Kolkata,Banglore,19:35,23:15,3h 40m,1 stop,4226
+1334,1334,Jet Airways,Kolkata,Banglore,18:55,19:50 13 May,24h 55m,1 stop,10844
+1335,1335,Jet Airways,Kolkata,Banglore,17:00,19:10 25 May,26h 10m,1 stop,13067
+1336,1336,SpiceJet,Delhi,Cochin,08:45,13:15,4h 30m,1 stop,5264
+1337,1337,Air India,Kolkata,Banglore,14:15,16:45,2h 30m,non-stop,6245
+1338,1338,IndiGo,Delhi,Cochin,04:55,21:00,16h 5m,1 stop,5894
+1339,1339,Multiple carriers,Delhi,Cochin,18:15,01:30 13 Jun,7h 15m,1 stop,13377
+1340,1340,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,7408
+1341,1341,Jet Airways,Kolkata,Banglore,20:00,04:40 22 May,8h 40m,1 stop,14781
+1342,1342,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,9315
+1343,1343,Air India,Delhi,Cochin,12:30,09:25 22 Mar,20h 55m,1 stop,6482
+1344,1344,Air India,Kolkata,Banglore,16:45,21:05 10 Jun,28h 20m,1 stop,7662
+1345,1345,Air Asia,Kolkata,Banglore,19:55,22:25,2h 30m,non-stop,4409
+1346,1346,Multiple carriers,Delhi,Cochin,09:55,21:00,11h 5m,1 stop,12537
+1347,1347,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3873
+1348,1348,GoAir,Banglore,New Delhi,11:40,14:35,2h 55m,non-stop,4340
+1349,1349,Jet Airways,Delhi,Cochin,05:25,04:25 05 Mar,47h,2 stops,20064
+1350,1350,IndiGo,Kolkata,Banglore,05:30,08:20,2h 50m,non-stop,4778
+1351,1351,Jet Airways,Kolkata,Banglore,16:30,16:20 07 May,23h 50m,1 stop,13941
+1352,1352,Jet Airways,Delhi,Cochin,18:20,19:00 28 Jun,24h 40m,2 stops,14300
+1353,1353,SpiceJet,Kolkata,Banglore,22:20,00:40 16 Mar,2h 20m,non-stop,3815
+1354,1354,IndiGo,Kolkata,Banglore,19:35,23:15,3h 40m,1 stop,5276
+1355,1355,Air India,Delhi,Cochin,19:45,19:15 16 May,23h 30m,2 stops,11491
+1356,1356,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3873
+1357,1357,Jet Airways,Delhi,Cochin,22:00,18:50 22 Mar,20h 50m,1 stop,12242
+1358,1358,GoAir,Delhi,Cochin,14:25,19:35,5h 10m,1 stop,7870
+1359,1359,Jet Airways,Kolkata,Banglore,20:25,14:25 25 May,18h,1 stop,10703
+1360,1360,Air India,Delhi,Cochin,05:15,06:50 07 Mar,25h 35m,1 stop,11522
+1361,1361,Jet Airways,Delhi,Cochin,09:00,19:00,10h,1 stop,14714
+1362,1362,Vistara,Banglore,Delhi,07:00,09:40,2h 40m,non-stop,5613
+1363,1363,Jet Airways,Delhi,Cochin,06:45,04:25 13 Jun,21h 40m,2 stops,13376
+1364,1364,Jet Airways,Banglore,New Delhi,14:05,08:15 16 Mar,18h 10m,1 stop,9134
+1365,1365,SpiceJet,Delhi,Cochin,06:05,11:20,5h 15m,1 stop,6297
+1366,1366,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,7229
+1367,1367,IndiGo,Kolkata,Banglore,14:25,16:55,2h 30m,non-stop,5224
+1368,1368,SpiceJet,Kolkata,Banglore,11:35,18:50,7h 15m,1 stop,8479
+1369,1369,Jet Airways,Kolkata,Banglore,05:45,08:15 19 May,26h 30m,1 stop,13941
+1370,1370,IndiGo,Banglore,Delhi,18:25,21:20,2h 55m,non-stop,4823
+1371,1371,Vistara,Kolkata,Banglore,07:10,22:40,15h 30m,1 stop,9397
+1372,1372,SpiceJet,Kolkata,Banglore,06:55,09:35,2h 40m,non-stop,4465
+1373,1373,SpiceJet,Chennai,Kolkata,09:45,12:00,2h 15m,non-stop,3859
+1374,1374,SpiceJet,Delhi,Cochin,15:55,21:55,6h,1 stop,5111
+1375,1375,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,10877
+1376,1376,Jet Airways,Delhi,Cochin,02:15,12:35,10h 20m,1 stop,10262
+1377,1377,Vistara,Chennai,Kolkata,07:05,09:20,2h 15m,non-stop,6627
+1378,1378,SpiceJet,Banglore,Delhi,09:30,12:20,2h 50m,non-stop,4423
+1379,1379,Jet Airways,Kolkata,Banglore,20:00,22:35 07 Jun,26h 35m,1 stop,10844
+1380,1380,Multiple carriers,Delhi,Cochin,13:05,21:20,8h 15m,2 stops,10759
+1381,1381,IndiGo,Banglore,Delhi,13:00,15:50,2h 50m,non-stop,4591
+1382,1382,IndiGo,Banglore,Delhi,06:05,08:50,2h 45m,non-stop,4423
+1383,1383,IndiGo,Banglore,New Delhi,14:25,19:25,5h,1 stop,7708
+1384,1384,IndiGo,Chennai,Kolkata,13:15,15:35,2h 20m,non-stop,3597
+1385,1385,SpiceJet,Banglore,New Delhi,05:45,08:35,2h 50m,non-stop,5575
+1386,1386,IndiGo,Kolkata,Banglore,09:20,14:15,4h 55m,1 stop,8443
+1387,1387,IndiGo,Delhi,Cochin,04:45,13:20,8h 35m,1 stop,13611
+1388,1388,Jet Airways,Banglore,New Delhi,14:05,11:25 02 Mar,21h 20m,1 stop,20800
+1389,1389,Jet Airways,Delhi,Cochin,19:45,19:45 28 Mar,24h,1 stop,5963
+1390,1390,Jet Airways,Kolkata,Banglore,21:10,09:20 07 Jun,12h 10m,1 stop,14571
+1391,1391,Air India,Kolkata,Banglore,08:20,07:55 19 May,23h 35m,2 stops,10697
+1392,1392,Jet Airways,Delhi,Cochin,17:30,04:25 10 Jun,10h 55m,1 stop,10262
+1393,1393,Jet Airways,Banglore,New Delhi,08:55,21:20,12h 25m,1 stop,27992
+1394,1394,Jet Airways,Banglore,New Delhi,11:40,09:00 19 Mar,21h 20m,1 stop,8147
+1395,1395,Jet Airways,Kolkata,Banglore,21:10,08:15 22 May,11h 5m,1 stop,14781
+1396,1396,Jet Airways,Banglore,New Delhi,22:55,15:15 13 Mar,16h 20m,1 stop,11087
+1397,1397,IndiGo,Mumbai,Hyderabad,02:30,04:00,1h 30m,non-stop,3342
+1398,1398,Air India,Delhi,Cochin,13:20,07:40 16 May,18h 20m,2 stops,13538
+1399,1399,Air India,Delhi,Cochin,05:00,07:40 16 May,26h 40m,2 stops,11281
+1400,1400,SpiceJet,Mumbai,Hyderabad,05:45,07:05,1h 20m,non-stop,4391
+1401,1401,GoAir,Delhi,Cochin,07:25,13:35,6h 10m,1 stop,4563
+1402,1402,Jet Airways Business,Banglore,New Delhi,09:45,14:25,4h 40m,1 stop,57209
+1403,1403,Jet Airways,Delhi,Cochin,10:00,04:25 02 Jun,18h 25m,1 stop,10262
+1404,1404,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,8541
+1405,1405,Air Asia,Banglore,Delhi,11:10,13:55,2h 45m,non-stop,3383
+1406,1406,Jet Airways,Delhi,Cochin,11:30,04:25 10 May,16h 55m,1 stop,12373
+1407,1407,Jet Airways,Delhi,Cochin,23:05,19:00 10 May,19h 55m,2 stops,15129
+1408,1408,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,7229
+1409,1409,Jet Airways,Delhi,Cochin,13:25,12:35 28 Jun,23h 10m,2 stops,15339
+1410,1410,Jet Airways,Kolkata,Banglore,19:45,04:45 25 Mar,9h,1 stop,10031
+1411,1411,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,6478
+1412,1412,Jet Airways,Delhi,Cochin,16:00,04:25 28 Mar,12h 25m,1 stop,6540
+1413,1413,Air India,Delhi,Cochin,07:05,09:25 07 Mar,26h 20m,2 stops,9190
+1414,1414,Vistara Premium economy,Chennai,Kolkata,07:05,09:20,2h 15m,non-stop,9125
+1415,1415,Jet Airways,Kolkata,Banglore,20:00,12:00 07 Jun,16h,1 stop,10844
+1416,1416,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,8016
+1417,1417,Jet Airways,Delhi,Cochin,08:00,19:45,11h 45m,1 stop,17549
+1418,1418,IndiGo,Mumbai,Hyderabad,20:05,21:40,1h 35m,non-stop,2227
+1419,1419,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,13014
+1420,1420,GoAir,Delhi,Cochin,07:25,13:35,6h 10m,1 stop,5140
+1421,1421,Jet Airways,Delhi,Cochin,14:35,12:35 25 Jun,22h,2 stops,13376
+1422,1422,Air India,Banglore,Delhi,10:00,12:45,2h 45m,non-stop,6961
+1423,1423,Jet Airways,Kolkata,Banglore,20:00,18:15 10 Jun,22h 15m,1 stop,14571
+1424,1424,IndiGo,Delhi,Cochin,02:00,07:45,5h 45m,1 stop,6426
+1425,1425,IndiGo,Delhi,Cochin,07:20,12:30,5h 10m,1 stop,12214
+1426,1426,Air India,Delhi,Cochin,12:20,19:15 07 May,30h 55m,2 stops,13538
+1427,1427,Multiple carriers,Delhi,Cochin,19:00,01:30 19 May,6h 30m,1 stop,7670
+1428,1428,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,15078
+1429,1429,IndiGo,Delhi,Cochin,17:10,01:30 10 May,8h 20m,1 stop,8330
+1430,1430,Multiple carriers,Delhi,Cochin,12:50,01:30 19 May,12h 40m,1 stop,7670
+1431,1431,Jet Airways,Delhi,Cochin,07:05,18:50,11h 45m,1 stop,17234
+1432,1432,Jet Airways,Delhi,Cochin,15:00,04:25 25 Jun,13h 25m,1 stop,10262
+1433,1433,IndiGo,Delhi,Cochin,02:00,07:45,5h 45m,1 stop,6386
+1434,1434,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,13292
+1435,1435,Air India,Mumbai,Hyderabad,19:30,20:45,1h 15m,non-stop,3100
+1436,1436,Air Asia,Kolkata,Banglore,06:50,10:30,3h 40m,1 stop,5162
+1437,1437,Jet Airways,Delhi,Cochin,18:15,04:25 04 Jun,10h 10m,1 stop,10262
+1438,1438,Air India,Delhi,Cochin,13:00,19:15,6h 15m,1 stop,8372
+1439,1439,Multiple carriers,Delhi,Cochin,07:30,19:00,11h 30m,1 stop,9794
+1440,1440,Air India,Kolkata,Banglore,13:55,23:15 25 Mar,33h 20m,2 stops,15292
+1441,1441,Jet Airways,Banglore,New Delhi,11:40,18:25,6h 45m,1 stop,19225
+1442,1442,Jet Airways,Delhi,Cochin,02:15,19:00,16h 45m,1 stop,10262
+1443,1443,Jet Airways,Delhi,Cochin,05:30,19:00,13h 30m,2 stops,10368
+1444,1444,Air India,Kolkata,Banglore,16:50,07:55 10 May,15h 5m,1 stop,8366
+1445,1445,SpiceJet,Kolkata,Banglore,06:55,09:30,2h 35m,non-stop,3841
+1446,1446,Air India,Kolkata,Banglore,09:50,21:05,11h 15m,1 stop,8030
+1447,1447,Multiple carriers,Delhi,Cochin,06:00,19:15,13h 15m,1 stop,8266
+1448,1448,Air India,Banglore,New Delhi,22:00,13:20 19 Mar,15h 20m,1 stop,6955
+1449,1449,Air Asia,Kolkata,Banglore,07:35,19:25,11h 50m,1 stop,5192
+1450,1450,Jet Airways,Banglore,New Delhi,22:55,11:25 13 Mar,12h 30m,1 stop,13817
+1451,1451,Jet Airways,Mumbai,Hyderabad,02:55,04:20,1h 25m,non-stop,5678
+1452,1452,Air India,Kolkata,Banglore,05:50,20:25,14h 35m,2 stops,12513
+1453,1453,IndiGo,Banglore,Delhi,07:10,10:05,2h 55m,non-stop,4823
+1454,1454,Jet Airways,Delhi,Cochin,16:00,04:25 07 Mar,12h 25m,1 stop,15764
+1455,1455,Jet Airways,Delhi,Cochin,08:00,19:00,11h,1 stop,14714
+1456,1456,Air India,Delhi,Cochin,13:00,19:15,6h 15m,1 stop,8372
+1457,1457,GoAir,Kolkata,Banglore,23:30,07:45 02 May,8h 15m,1 stop,6686
+1458,1458,IndiGo,Delhi,Cochin,14:20,22:20,8h,1 stop,6528
+1459,1459,Jet Airways,Kolkata,Banglore,09:35,22:05,12h 30m,1 stop,14151
+1460,1460,GoAir,Banglore,Delhi,20:55,23:40,2h 45m,non-stop,4239
+1461,1461,IndiGo,Kolkata,Banglore,21:00,02:15 19 May,5h 15m,1 stop,6534
+1462,1462,IndiGo,Delhi,Cochin,06:50,12:10,5h 20m,1 stop,5298
+1463,1463,Jet Airways,Banglore,New Delhi,08:00,13:15,5h 15m,1 stop,19225
+1464,1464,Jet Airways,Delhi,Cochin,08:00,04:25 22 Mar,20h 25m,1 stop,6540
+1465,1465,Multiple carriers,Delhi,Cochin,15:00,01:30 10 May,10h 30m,1 stop,15078
+1466,1466,Multiple carriers,Delhi,Cochin,07:00,19:00,12h,1 stop,10407
+1467,1467,Air India,Kolkata,Banglore,09:25,13:45 13 May,28h 20m,2 stops,12592
+1468,1468,Multiple carriers,Delhi,Cochin,08:00,21:00,13h,1 stop,13587
+1469,1469,Vistara,Kolkata,Banglore,20:20,18:50 25 May,22h 30m,1 stop,9345
+1470,1470,Air India,Kolkata,Banglore,10:00,10:30 25 May,24h 30m,3 stops,13007
+1471,1471,Jet Airways,Kolkata,Banglore,14:05,22:35,8h 30m,1 stop,14781
+1472,1472,Jet Airways,Delhi,Cochin,11:00,14:15,3h 15m,non-stop,9564
+1473,1473,IndiGo,Banglore,New Delhi,18:55,21:45,2h 50m,non-stop,8855
+1474,1474,Vistara,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,11982
+1475,1475,IndiGo,Mumbai,Hyderabad,06:25,07:55,1h 30m,non-stop,4049
+1476,1476,Multiple carriers,Delhi,Cochin,07:00,15:30,8h 30m,1 stop,6148
+1477,1477,Air India,Kolkata,Banglore,19:00,11:05 07 Apr,16h 5m,1 stop,4437
+1478,1478,Jet Airways,Delhi,Cochin,09:25,04:25 07 Jun,19h,2 stops,13882
+1479,1479,Jet Airways,Kolkata,Banglore,06:30,18:15,11h 45m,1 stop,14781
+1480,1480,Air India,Kolkata,Banglore,08:20,21:50,13h 30m,2 stops,10697
+1481,1481,Jet Airways,Kolkata,Banglore,14:05,16:20 13 Jun,26h 15m,1 stop,8529
+1482,1482,Air India,Delhi,Cochin,03:50,19:15,15h 25m,1 stop,9929
+1483,1483,Jet Airways,Mumbai,Hyderabad,10:20,11:50,1h 30m,non-stop,4995
+1484,1484,Air Asia,Kolkata,Banglore,07:35,23:30,15h 55m,1 stop,5192
+1485,1485,Jet Airways,Banglore,Delhi,15:15,18:10,2h 55m,non-stop,4544
+1486,1486,IndiGo,Delhi,Cochin,21:50,03:35 02 May,5h 45m,1 stop,6349
+1487,1487,Jet Airways,Delhi,Cochin,19:10,04:25 08 Mar,33h 15m,2 stops,16022
+1488,1488,Jet Airways,Banglore,New Delhi,18:40,00:45 02 Mar,6h 5m,1 stop,35185
+1489,1489,Vistara,Kolkata,Banglore,20:20,10:45 13 Jun,14h 25m,1 stop,8452
+1490,1490,Jet Airways,Delhi,Cochin,16:00,19:45 28 Mar,27h 45m,1 stop,12032
+1491,1491,Multiple carriers,Delhi,Cochin,07:05,21:20,14h 15m,2 stops,8620
+1492,1492,Jet Airways,Kolkata,Banglore,08:25,16:20,7h 55m,1 stop,14781
+1493,1493,Jet Airways,Delhi,Cochin,10:00,19:00,9h,1 stop,14714
+1494,1494,IndiGo,Delhi,Cochin,07:30,21:00,13h 30m,1 stop,14871
+1495,1495,Multiple carriers,Delhi,Cochin,08:55,21:00,12h 5m,1 stop,15147
+1496,1496,IndiGo,Chennai,Kolkata,14:45,17:05,2h 20m,non-stop,3597
+1497,1497,Jet Airways,Kolkata,Banglore,05:45,12:00,6h 15m,1 stop,8586
+1498,1498,Jet Airways,Banglore,New Delhi,22:50,23:00 02 Mar,24h 10m,1 stop,25735
+1499,1499,IndiGo,Delhi,Cochin,05:10,10:05,4h 55m,1 stop,6496
+1500,1500,Jet Airways,Delhi,Cochin,05:25,04:25 28 Mar,23h,2 stops,9254
+1501,1501,Jet Airways,Delhi,Cochin,08:00,04:25 10 Mar,20h 25m,1 stop,17549
+1502,1502,Air India,Delhi,Cochin,13:20,07:40 10 May,18h 20m,2 stops,13538
+1503,1503,Air Asia,Kolkata,Banglore,19:55,22:25,2h 30m,non-stop,4107
+1504,1504,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,4239
+1505,1505,Multiple carriers,Delhi,Cochin,19:00,01:30 28 Jun,6h 30m,1 stop,6795
+1506,1506,Jet Airways,Kolkata,Banglore,14:05,22:35,8h 30m,1 stop,10844
+1507,1507,Air India,Banglore,Delhi,21:05,23:55,2h 50m,non-stop,5228
+1508,1508,Vistara,Delhi,Cochin,06:00,09:10,3h 10m,non-stop,6741
+1509,1509,IndiGo,Delhi,Cochin,18:35,01:30 25 May,6h 55m,1 stop,7503
+1510,1510,Multiple carriers,Delhi,Cochin,10:00,01:35 22 Mar,15h 35m,1 stop,8565
+1511,1511,Air Asia,Banglore,New Delhi,23:25,02:10 22 Mar,2h 45m,non-stop,3383
+1512,1512,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,7229
+1513,1513,Air India,Banglore,New Delhi,06:55,23:20,16h 25m,1 stop,6987
+1514,1514,Vistara,Kolkata,Banglore,17:00,18:50 10 Jun,25h 50m,1 stop,9135
+1515,1515,Vistara,Banglore,Delhi,17:00,19:35,2h 35m,non-stop,5613
+1516,1516,Jet Airways,Kolkata,Banglore,11:50,17:35,5h 45m,1 stop,8781
+1517,1517,Air India,Delhi,Cochin,18:05,21:10,3h 5m,non-stop,6934
+1518,1518,Jet Airways,Delhi,Cochin,18:15,04:25 02 Jun,10h 10m,1 stop,14714
+1519,1519,Multiple carriers,Delhi,Cochin,16:00,01:30 02 Jun,9h 30m,1 stop,13377
+1520,1520,Jet Airways,Delhi,Cochin,22:50,12:35 19 May,13h 45m,1 stop,12373
+1521,1521,SpiceJet,Chennai,Kolkata,08:20,10:35,2h 15m,non-stop,3543
+1522,1522,Jet Airways,Delhi,Cochin,11:30,19:00,7h 30m,1 stop,14714
+1523,1523,Air India,Kolkata,Banglore,05:50,20:25,14h 35m,2 stops,10991
+1524,1524,SpiceJet,Banglore,Delhi,05:55,08:35,2h 40m,non-stop,4319
+1525,1525,SpiceJet,Kolkata,Banglore,17:10,19:40,2h 30m,non-stop,3841
+1526,1526,Jet Airways,Delhi,Cochin,21:25,19:00 04 Jun,21h 35m,2 stops,11507
+1527,1527,IndiGo,Chennai,Kolkata,11:35,14:00,2h 25m,non-stop,7295
+1528,1528,Jet Airways,Kolkata,Banglore,20:25,22:05 10 Jun,25h 40m,1 stop,10539
+1529,1529,IndiGo,Delhi,Cochin,14:30,17:35,3h 5m,non-stop,5406
+1530,1530,Air India,Delhi,Cochin,19:00,19:15 02 Jun,24h 15m,1 stop,8792
+1531,1531,Air India,Banglore,New Delhi,17:00,23:10,6h 10m,1 stop,11628
+1532,1532,Air India,Kolkata,Banglore,17:30,13:45 02 May,20h 15m,2 stops,15164
+1533,1533,Jet Airways,Delhi,Cochin,09:00,19:00,10h,1 stop,16079
+1534,1534,Jet Airways,Delhi,Cochin,07:05,12:35,5h 30m,1 stop,15554
+1535,1535,Jet Airways,Mumbai,Hyderabad,07:05,08:30,1h 25m,non-stop,4995
+1536,1536,Jet Airways,Kolkata,Banglore,06:30,19:50,13h 20m,1 stop,14781
+1537,1537,Jet Airways,Banglore,Delhi,18:55,22:00,3h 5m,non-stop,6144
+1538,1538,IndiGo,Chennai,Kolkata,22:05,00:25 04 Mar,2h 20m,non-stop,5277
+1539,1539,Multiple carriers,Delhi,Cochin,10:20,19:15,8h 55m,1 stop,8266
+1540,1540,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,5177
+1541,1541,SpiceJet,Kolkata,Banglore,09:00,11:25,2h 25m,non-stop,3873
+1542,1542,Jet Airways,Delhi,Cochin,14:00,19:00,5h,1 stop,5177
+1543,1543,IndiGo,Banglore,New Delhi,12:10,17:05,4h 55m,1 stop,4410
+1544,1544,Air India,Banglore,Delhi,10:00,12:45,2h 45m,non-stop,6121
+1545,1545,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,6961
+1546,1546,SpiceJet,Delhi,Cochin,17:55,22:50,4h 55m,1 stop,5673
+1547,1547,Jet Airways,Banglore,Delhi,07:10,10:10,3h,non-stop,4544
+1548,1548,IndiGo,Delhi,Cochin,04:45,21:00,16h 15m,1 stop,7258
+1549,1549,Jet Airways,Kolkata,Banglore,21:10,10:05 16 May,12h 55m,1 stop,11841
+1550,1550,Jet Airways,Delhi,Cochin,07:05,19:00,11h 55m,1 stop,12373
+1551,1551,Jet Airways,Delhi,Cochin,15:05,04:25 28 Mar,13h 20m,1 stop,12242
+1552,1552,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,6478
+1553,1553,Jet Airways,Kolkata,Banglore,16:30,12:00 13 Jun,19h 30m,1 stop,13044
+1554,1554,Vistara,Banglore,New Delhi,09:50,12:35,2h 45m,non-stop,6138
+1555,1555,IndiGo,Banglore,New Delhi,15:40,20:35,4h 55m,1 stop,5226
+1556,1556,Jet Airways,Kolkata,Banglore,14:05,12:00 02 May,21h 55m,1 stop,14388
+1557,1557,GoAir,Banglore,Delhi,07:45,10:40,2h 55m,non-stop,3419
+1558,1558,Air India,Delhi,Cochin,13:30,23:00,9h 30m,1 stop,8907
+1559,1559,Jet Airways,Delhi,Cochin,22:50,19:00 10 Jun,20h 10m,1 stop,10262
+1560,1560,Jet Airways,Banglore,New Delhi,05:45,18:25,12h 40m,1 stop,12284
+1561,1561,Jet Airways,Delhi,Cochin,23:05,12:35 28 Jun,13h 30m,2 stops,11150
+1562,1562,Vistara,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,11982
+1563,1563,Vistara,Kolkata,Banglore,07:10,18:50,11h 40m,1 stop,9555
+1564,1564,SpiceJet,Delhi,Cochin,06:05,11:20,5h 15m,1 stop,5351
+1565,1565,Multiple carriers,Delhi,Cochin,13:00,21:00,8h,1 stop,7933
+1566,1566,Air India,Delhi,Cochin,07:10,19:15,12h 5m,2 stops,12488
+1567,1567,Jet Airways,Kolkata,Banglore,21:10,18:15 10 Jun,21h 5m,1 stop,14571
+1568,1568,IndiGo,Banglore,New Delhi,22:20,01:10 07 Mar,2h 50m,non-stop,7648
+1569,1569,Jet Airways,Kolkata,Banglore,08:25,19:50,11h 25m,1 stop,14781
+1570,1570,Air India,Delhi,Cochin,17:15,09:25 02 May,16h 10m,2 stops,8839
+1571,1571,IndiGo,Delhi,Cochin,17:05,22:15,5h 10m,1 stop,6373
+1572,1572,Jet Airways,Delhi,Cochin,19:15,04:25 10 Mar,9h 10m,1 stop,14053
+1573,1573,Jet Airways,Banglore,Delhi,06:00,08:45,2h 45m,non-stop,7229
+1574,1574,Jet Airways,Banglore,New Delhi,16:55,10:25 19 Mar,17h 30m,1 stop,7832
+1575,1575,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,13587
+1576,1576,Jet Airways,Delhi,Cochin,09:40,18:50,9h 10m,2 stops,11702
+1577,1577,IndiGo,Mumbai,Hyderabad,21:20,22:45,1h 25m,non-stop,2227
+1578,1578,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,7229
+1579,1579,Air India,Kolkata,Banglore,08:20,21:50,13h 30m,2 stops,10697
+1580,1580,IndiGo,Kolkata,Banglore,09:35,12:20,2h 45m,non-stop,4462
+1581,1581,Jet Airways,Kolkata,Banglore,18:55,04:40 02 May,9h 45m,1 stop,8586
+1582,1582,Vistara,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,11982
+1583,1583,Jet Airways,Banglore,New Delhi,08:00,21:20,13h 20m,1 stop,13817
+1584,1584,Jet Airways,Kolkata,Banglore,17:00,14:25 19 May,21h 25m,1 stop,13067
+1585,1585,IndiGo,Banglore,New Delhi,01:30,04:15,2h 45m,non-stop,6860
+1586,1586,GoAir,Delhi,Cochin,14:25,19:35,5h 10m,1 stop,10651
+1587,1587,Air India,Mumbai,Hyderabad,11:35,19:25 07 Mar,31h 50m,2 stops,17926
+1588,1588,Jet Airways,Kolkata,Banglore,08:25,20:45,12h 20m,1 stop,10844
+1589,1589,IndiGo,Delhi,Cochin,21:50,03:35 13 Jun,5h 45m,1 stop,5775
+1590,1590,IndiGo,Banglore,New Delhi,20:00,22:55,2h 55m,non-stop,6144
+1591,1591,Air India,Banglore,New Delhi,13:20,16:10,2h 50m,non-stop,10216
+1592,1592,Jet Airways,Delhi,Cochin,20:00,04:25 25 Jun,8h 25m,2 stops,14300
+1593,1593,Multiple carriers,Delhi,Cochin,08:25,19:15,10h 50m,1 stop,8601
+1594,1594,Jet Airways,Banglore,New Delhi,05:45,13:15,7h 30m,1 stop,9134
+1595,1595,Multiple carriers,Delhi,Cochin,10:20,19:00,8h 40m,1 stop,11789
+1596,1596,Air India,Kolkata,Banglore,14:35,14:35 10 May,24h,1 stop,6528
+1597,1597,IndiGo,Kolkata,Banglore,08:10,13:00,4h 50m,1 stop,5279
+1598,1598,Jet Airways,Banglore,New Delhi,09:45,00:30 13 Mar,14h 45m,1 stop,10562
+1599,1599,IndiGo,Banglore,Delhi,23:30,02:20 19 Apr,2h 50m,non-stop,4591
+1600,1600,SpiceJet,Mumbai,Hyderabad,13:15,14:45,1h 30m,non-stop,1965
+1601,1601,Air India,Kolkata,Banglore,16:45,21:05 10 May,28h 20m,1 stop,7662
+1602,1602,IndiGo,Banglore,Delhi,00:25,03:15,2h 50m,non-stop,4077
+1603,1603,Jet Airways,Delhi,Cochin,02:15,12:35,10h 20m,1 stop,10262
+1604,1604,Jet Airways,Banglore,New Delhi,20:35,09:30 07 Mar,12h 55m,1 stop,17261
+1605,1605,SpiceJet,Delhi,Cochin,15:45,22:05,6h 20m,1 stop,5583
+1606,1606,IndiGo,Kolkata,Banglore,09:35,12:20,2h 45m,non-stop,4804
+1607,1607,Vistara,Kolkata,Banglore,20:20,10:45 22 May,14h 25m,1 stop,9187
+1608,1608,Jet Airways,Delhi,Cochin,17:30,19:00 28 May,25h 30m,1 stop,12898
+1609,1609,Air Asia,Banglore,Delhi,04:55,07:45,2h 50m,non-stop,3383
+1610,1610,IndiGo,Delhi,Cochin,06:40,12:00,5h 20m,1 stop,5761
+1611,1611,IndiGo,Kolkata,Banglore,11:55,16:25,4h 30m,1 stop,9806
+1612,1612,Multiple carriers Premium economy,Delhi,Cochin,08:55,21:00,12h 5m,1 stop,9845
+1613,1613,Jet Airways,Delhi,Cochin,23:05,12:35 19 May,13h 30m,2 stops,15129
+1614,1614,Jet Airways,Banglore,New Delhi,14:05,10:25 19 Mar,20h 20m,1 stop,7832
+1615,1615,Jet Airways,Delhi,Cochin,11:30,19:00,7h 30m,1 stop,14714
+1616,1616,Air India,Banglore,New Delhi,11:05,22:45,11h 40m,1 stop,10657
+1617,1617,Jet Airways,Banglore,New Delhi,14:05,21:20,7h 15m,1 stop,36235
+1618,1618,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,5176
+1619,1619,Air Asia,Kolkata,Banglore,22:50,01:20 22 Apr,2h 30m,non-stop,5645
+1620,1620,SpiceJet,Kolkata,Banglore,22:20,00:40 22 Mar,2h 20m,non-stop,3815
+1621,1621,Multiple carriers,Delhi,Cochin,08:00,19:00,11h,1 stop,10197
+1622,1622,IndiGo,Delhi,Cochin,07:35,12:10,4h 35m,1 stop,5054
+1623,1623,IndiGo,Banglore,Delhi,10:10,13:00,2h 50m,non-stop,3943
+1624,1624,IndiGo,Banglore,New Delhi,06:00,08:45,2h 45m,non-stop,7648
+1625,1625,Air India,Kolkata,Banglore,05:50,08:55 07 Jun,27h 5m,2 stops,12723
+1626,1626,Multiple carriers,Delhi,Cochin,09:45,22:30,12h 45m,1 stop,9646
+1627,1627,IndiGo,Mumbai,Hyderabad,19:05,20:35,1h 30m,non-stop,2754
+1628,1628,SpiceJet,Chennai,Kolkata,17:45,20:05,2h 20m,non-stop,3597
+1629,1629,Air India,Banglore,New Delhi,08:50,15:15,6h 25m,1 stop,8714
+1630,1630,Jet Airways,Mumbai,Hyderabad,06:30,08:00,1h 30m,non-stop,4995
+1631,1631,Jet Airways,Banglore,Delhi,19:50,22:50,3h,non-stop,4544
+1632,1632,Jet Airways,Banglore,Delhi,17:45,20:45,3h,non-stop,4544
+1633,1633,Multiple carriers,Delhi,Cochin,07:05,18:10,11h 5m,1 stop,6601
+1634,1634,Jet Airways,Kolkata,Banglore,20:00,09:20 13 Jun,13h 20m,1 stop,13044
+1635,1635,Air India,Banglore,Delhi,17:00,19:50,2h 50m,non-stop,6961
+1636,1636,Jet Airways,Banglore,Delhi,08:20,11:20,3h,non-stop,7229
+1637,1637,Multiple carriers,Delhi,Cochin,10:00,21:00,11h,1 stop,8073
+1638,1638,Jet Airways,Delhi,Cochin,13:00,04:25 28 May,15h 25m,1 stop,12898
+1639,1639,Jet Airways,Kolkata,Banglore,21:10,08:15 13 Jun,11h 5m,1 stop,8529
+1640,1640,Multiple carriers,Delhi,Cochin,09:10,18:50,9h 40m,1 stop,15135
+1641,1641,Jet Airways,Banglore,New Delhi,18:20,21:00,2h 40m,non-stop,8016
+1642,1642,Multiple carriers,Delhi,Cochin,07:10,16:10,9h,1 stop,6093
+1643,1643,Jet Airways,Kolkata,Banglore,17:00,14:25 10 May,21h 25m,1 stop,9314
+1644,1644,Jet Airways,Banglore,New Delhi,22:50,20:20 07 Mar,21h 30m,1 stop,17471
+1645,1645,Jet Airways,Kolkata,Banglore,14:05,09:20 02 May,19h 15m,1 stop,9663
+1646,1646,Air Asia,Banglore,Delhi,11:10,13:55,2h 45m,non-stop,3383
+1647,1647,Jet Airways,Kolkata,Banglore,08:25,19:50,11h 25m,1 stop,10844
+1648,1648,Jet Airways,Banglore,Delhi,11:10,14:05,2h 55m,non-stop,8016
+1649,1649,GoAir,Kolkata,Banglore,23:30,07:45 16 May,8h 15m,1 stop,6945
+1650,1650,Jet Airways,Banglore,New Delhi,21:25,21:20 07 Mar,23h 55m,1 stop,17471
+1651,1651,Air India,Delhi,Cochin,20:15,19:15 22 May,23h,2 stops,13381
+1652,1652,Air India,Banglore,Delhi,06:10,08:55,2h 45m,non-stop,5228
+1653,1653,Air India,Delhi,Cochin,18:45,19:15 22 May,24h 30m,2 stops,12257
+1654,1654,Air India,Kolkata,Banglore,10:00,05:25 10 Jun,19h 25m,2 stops,12744
+1655,1655,Air India,Mumbai,Hyderabad,13:55,15:25,1h 30m,non-stop,3100
+1656,1656,Jet Airways,Kolkata,Banglore,09:35,21:05,11h 30m,1 stop,12121
+1657,1657,Multiple carriers,Delhi,Cochin,10:45,18:50,8h 5m,1 stop,11622
+1658,1658,Multiple carriers,Delhi,Cochin,09:00,19:15,10h 15m,1 stop,12853
+1659,1659,Air Asia,Delhi,Cochin,07:55,13:25,5h 30m,1 stop,8759
+1660,1660,Air India,Delhi,Cochin,12:00,19:15,7h 15m,2 stops,11858
+1661,1661,IndiGo,Banglore,Delhi,01:30,04:15,2h 45m,non-stop,4591
+1662,1662,Multiple carriers,Delhi,Cochin,09:00,21:00,12h,1 stop,6883
+1663,1663,IndiGo,Delhi,Cochin,23:30,04:35 07 Jun,5h 5m,1 stop,10112
+1664,1664,Jet Airways,Kolkata,Banglore,18:55,16:20 22 May,21h 25m,1 stop,10844
+1665,1665,Air India,Delhi,Cochin,05:15,19:15 22 Mar,38h,3 stops,9128
+1666,1666,Multiple carriers,Delhi,Cochin,11:30,18:50,7h 20m,1 stop,15135
+1667,1667,Air India,Banglore,Delhi,13:20,16:10,2h 50m,non-stop,6121
+1668,1668,IndiGo,Kolkata,Banglore,21:25,00:05 22 Mar,2h 40m,non-stop,4148
+1669,1669,IndiGo,Banglore,Delhi,04:00,06:50,2h 50m,non-stop,4423
+1670,1670,Jet Airways,Kolkata,Banglore,08:25,18:15,9h 50m,1 stop,10844
+1671,1671,Jet Airways,Delhi,Cochin,19:30,12:35 28 Jun,17h 5m,2 stops,13764
+1672,1672,Air India,Delhi,Cochin,23:00,19:15 10 Mar,20h 15m,1 stop,11260
+1673,1673,Jet Airways,Kolkata,Banglore,16:30,20:45 13 May,28h 15m,1 stop,10844
